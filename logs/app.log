@@ -789,3 +789,17 @@
 {"timestamp":"2026-06-24T08:31:58.691Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":0,"updatedAlerts":149}
 {"timestamp":"2026-06-24T08:32:58.140Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:31:58.133Z","recordedBefore":"2026-06-24T08:32:58.140Z"}
 {"timestamp":"2026-06-24T08:32:58.618Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":1,"updatedAlerts":148}
+{"timestamp":"2026-06-24T08:33:58.153Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:32:58.140Z","recordedBefore":"2026-06-24T08:33:58.153Z"}
+{"timestamp":"2026-06-24T08:33:58.689Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":0,"updatedAlerts":149}
+{"timestamp":"2026-06-24T08:34:58.166Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:33:58.153Z","recordedBefore":"2026-06-24T08:34:58.166Z"}
+{"timestamp":"2026-06-24T08:34:58.720Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":1,"updatedAlerts":148}
+{"timestamp":"2026-06-24T08:35:58.181Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:34:58.166Z","recordedBefore":"2026-06-24T08:35:58.181Z"}
+{"timestamp":"2026-06-24T08:35:58.724Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":0,"updatedAlerts":149}
+{"timestamp":"2026-06-24T08:36:58.196Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:35:58.181Z","recordedBefore":"2026-06-24T08:36:58.196Z"}
+{"timestamp":"2026-06-24T08:36:58.747Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":1,"updatedAlerts":148}
+{"timestamp":"2026-06-24T08:37:58.198Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:36:58.196Z","recordedBefore":"2026-06-24T08:37:58.198Z"}
+{"timestamp":"2026-06-24T08:37:58.718Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":0,"updatedAlerts":149}
+{"timestamp":"2026-06-24T08:38:58.203Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:37:58.198Z","recordedBefore":"2026-06-24T08:38:58.203Z"}
+{"timestamp":"2026-06-24T08:38:59.151Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":1,"updatedAlerts":148}
+{"timestamp":"2026-06-24T08:39:58.208Z","level":"info","message":"Starting detection cycle","mode":"demo","recordedAfter":"2026-06-24T08:38:58.203Z","recordedBefore":"2026-06-24T08:39:58.208Z"}
+{"timestamp":"2026-06-24T08:39:59.326Z","level":"info","message":"Detection cycle completed","fetchedEvents":176,"uniqueEventCount":0,"createdAlerts":0,"updatedAlerts":149}

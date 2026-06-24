@@ -1,8 +1,8 @@
 {
   "meta": {
     "createdAt": "2026-06-23T06:23:27.292Z",
-    "updatedAt": "2026-06-24T08:32:58.613Z",
-    "lastPollAt": "2026-06-24T08:32:58.140Z",
+    "updatedAt": "2026-06-24T08:39:58.773Z",
+    "lastPollAt": "2026-06-24T08:39:58.208Z",
     "lastPollError": null
   },
   "events": [
@@ -9228,8 +9228,8 @@
       "id": "a3f3be93-cf33-4d04-9960-c76e8dd707ea",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:21:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:28:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-048",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9249,7 +9249,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-048",
-          "recordedAt": "2026-06-24T08:21:58.141Z",
+          "recordedAt": "2026-06-24T08:28:58.220Z",
           "kind": "audit",
           "actor": "user-lina",
           "sourceIp": "198.51.100.67",
@@ -9272,8 +9272,8 @@
       "id": "f580a5ba-ed3e-4a76-954d-989dbc2b4e2e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:20:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:27:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-047",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9293,7 +9293,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-047",
-          "recordedAt": "2026-06-24T08:20:58.141Z",
+          "recordedAt": "2026-06-24T08:27:58.220Z",
           "kind": "audit",
           "actor": "user-kiran",
           "sourceIp": "198.51.100.66",
@@ -9316,8 +9316,8 @@
       "id": "7f74b818-1818-4f9d-a1ef-0316aa9558b0",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:19:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:26:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-046",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9337,7 +9337,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-046",
-          "recordedAt": "2026-06-24T08:19:58.141Z",
+          "recordedAt": "2026-06-24T08:26:58.220Z",
           "kind": "audit",
           "actor": "user-julia",
           "sourceIp": "198.51.100.65",
@@ -9360,8 +9360,8 @@
       "id": "c9816ac3-dc9a-420d-983a-aaf75797efbf",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:18:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:25:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-045",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9381,7 +9381,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-045",
-          "recordedAt": "2026-06-24T08:18:58.141Z",
+          "recordedAt": "2026-06-24T08:25:58.220Z",
           "kind": "audit",
           "actor": "user-ivan",
           "sourceIp": "198.51.100.64",
@@ -9404,8 +9404,8 @@
       "id": "81351f3a-0ed0-4e01-9ffc-9f21ff6dc48d",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:17:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:24:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-044",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9425,7 +9425,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-044",
-          "recordedAt": "2026-06-24T08:17:58.141Z",
+          "recordedAt": "2026-06-24T08:24:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "198.51.100.63",
@@ -9448,8 +9448,8 @@
       "id": "f89ec2dd-172a-40df-8155-cab2235a7d77",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:16:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:23:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-043",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9469,7 +9469,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-043",
-          "recordedAt": "2026-06-24T08:16:58.141Z",
+          "recordedAt": "2026-06-24T08:23:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "198.51.100.62",
@@ -9492,8 +9492,8 @@
       "id": "5f39d79d-e427-4301-87e1-0cb2c5f7c510",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:15:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:22:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-042",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9513,7 +9513,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-042",
-          "recordedAt": "2026-06-24T08:15:58.141Z",
+          "recordedAt": "2026-06-24T08:22:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "198.51.100.61",
@@ -9536,8 +9536,8 @@
       "id": "e73d31c8-acf7-4e3c-bfed-12c1e7eab15c",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:14:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:21:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-041",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9557,7 +9557,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-041",
-          "recordedAt": "2026-06-24T08:14:58.141Z",
+          "recordedAt": "2026-06-24T08:21:58.220Z",
           "kind": "audit",
           "actor": "user-erik",
           "sourceIp": "198.51.100.60",
@@ -9580,8 +9580,8 @@
       "id": "be81d6a3-f42c-41f1-ac39-1719fd0794bf",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:13:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:20:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-040",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9601,7 +9601,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-040",
-          "recordedAt": "2026-06-24T08:13:58.141Z",
+          "recordedAt": "2026-06-24T08:20:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "198.51.100.59",
@@ -9624,8 +9624,8 @@
       "id": "c8e27368-0ec6-4942-ae98-2633018d7762",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:12:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:19:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-039",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9645,7 +9645,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-039",
-          "recordedAt": "2026-06-24T08:12:58.141Z",
+          "recordedAt": "2026-06-24T08:19:58.220Z",
           "kind": "audit",
           "actor": "user-charlie",
           "sourceIp": "198.51.100.58",
@@ -9668,8 +9668,8 @@
       "id": "a4f03e2e-ca9b-4f64-a92a-9f6e48345f0c",
       "status": "open",
       "createdAt": "2026-06-23T06:23:27.433Z",
-      "lastSeenAt": "2026-06-24T08:12:58.140Z",
-      "occurrences": 391,
+      "lastSeenAt": "2026-06-24T08:19:58.220Z",
+      "occurrences": 398,
       "fingerprint": "forbidden-sensitive-access:audit-002",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9689,7 +9689,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-002",
-          "recordedAt": "2026-06-24T08:12:58.140Z",
+          "recordedAt": "2026-06-24T08:19:58.220Z",
           "kind": "audit",
           "actor": "user-bob",
           "sourceIp": "198.51.100.80",
@@ -9712,8 +9712,8 @@
       "id": "287b37bf-8f84-43c2-a034-93f2eb4f1f56",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:11:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:18:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-038",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9733,7 +9733,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-038",
-          "recordedAt": "2026-06-24T08:11:58.141Z",
+          "recordedAt": "2026-06-24T08:18:58.220Z",
           "kind": "audit",
           "actor": "user-bob",
           "sourceIp": "198.51.100.57",
@@ -9756,8 +9756,8 @@
       "id": "c5ceae2c-c7c4-47b3-ba3b-32fa366e307d",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:10:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:17:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-037",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9777,7 +9777,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-037",
-          "recordedAt": "2026-06-24T08:10:58.141Z",
+          "recordedAt": "2026-06-24T08:17:58.220Z",
           "kind": "audit",
           "actor": "user-alice",
           "sourceIp": "198.51.100.56",
@@ -9800,8 +9800,8 @@
       "id": "f19c5ddf-9000-41ce-957d-fc3a7ab6bdaf",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:09:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:16:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-036",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9821,7 +9821,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-036",
-          "recordedAt": "2026-06-24T08:09:58.141Z",
+          "recordedAt": "2026-06-24T08:16:58.220Z",
           "kind": "audit",
           "actor": "user-lina",
           "sourceIp": "198.51.100.55",
@@ -9844,8 +9844,8 @@
       "id": "c769699b-126f-4e30-b168-114094144c7b",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:08:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:15:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-035",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9865,7 +9865,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-035",
-          "recordedAt": "2026-06-24T08:08:58.141Z",
+          "recordedAt": "2026-06-24T08:15:58.220Z",
           "kind": "audit",
           "actor": "user-kiran",
           "sourceIp": "198.51.100.54",
@@ -9888,8 +9888,8 @@
       "id": "fbaba309-3a68-41de-b59b-9e7424f2f6a4",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:07:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:14:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-034",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -9909,7 +9909,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-034",
-          "recordedAt": "2026-06-24T08:07:58.141Z",
+          "recordedAt": "2026-06-24T08:14:58.220Z",
           "kind": "audit",
           "actor": "user-julia",
           "sourceIp": "198.51.100.53",
@@ -9932,8 +9932,8 @@
       "id": "c20e294c-bbbd-4f43-863c-d248179a5fe1",
       "status": "open",
       "createdAt": "2026-06-24T08:28:25.021Z",
-      "lastSeenAt": "2026-06-24T08:06:58.141Z",
-      "occurrences": 7,
+      "lastSeenAt": "2026-06-24T08:13:58.221Z",
+      "occurrences": 14,
       "fingerprint": "failed-login-burst:user-lina:2026-06-24T08",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -9953,7 +9953,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-lina-1",
-          "recordedAt": "2026-06-24T08:04:58.141Z",
+          "recordedAt": "2026-06-24T08:11:58.221Z",
           "kind": "authentication",
           "actor": "lina@example.com",
           "sourceIp": "198.51.100.111",
@@ -9963,7 +9963,7 @@
         },
         {
           "eventId": "auth:auth-fail-lina-2",
-          "recordedAt": "2026-06-24T08:05:58.141Z",
+          "recordedAt": "2026-06-24T08:12:58.221Z",
           "kind": "authentication",
           "actor": "lina@example.com",
           "sourceIp": "198.51.100.111",
@@ -9973,7 +9973,7 @@
         },
         {
           "eventId": "auth:auth-fail-lina-3",
-          "recordedAt": "2026-06-24T08:06:58.141Z",
+          "recordedAt": "2026-06-24T08:13:58.221Z",
           "kind": "authentication",
           "actor": "lina@example.com",
           "sourceIp": "198.51.100.111",
@@ -9994,8 +9994,8 @@
       "id": "a61465cc-eb72-4a66-9b54-f81491ad940e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:06:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:13:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-033",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -10015,7 +10015,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-033",
-          "recordedAt": "2026-06-24T08:06:58.141Z",
+          "recordedAt": "2026-06-24T08:13:58.220Z",
           "kind": "audit",
           "actor": "user-ivan",
           "sourceIp": "198.51.100.52",
@@ -10038,8 +10038,8 @@
       "id": "22508f80-fc5d-48d5-bb52-e8ed8ed70f01",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:05:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:12:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-032",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -10059,7 +10059,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-032",
-          "recordedAt": "2026-06-24T08:05:58.141Z",
+          "recordedAt": "2026-06-24T08:12:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "198.51.100.51",
@@ -10082,8 +10082,8 @@
       "id": "c468f907-7b59-4fd6-8876-95a58bdb05e0",
       "status": "open",
       "createdAt": "2026-06-24T08:30:58.139Z",
-      "lastSeenAt": "2026-06-24T08:04:58.141Z",
-      "occurrences": 4,
+      "lastSeenAt": "2026-06-24T08:11:58.221Z",
+      "occurrences": 11,
       "fingerprint": "failed-login-burst:user-kiran:2026-06-24T08",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -10103,7 +10103,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-kiran-1",
-          "recordedAt": "2026-06-24T08:02:58.141Z",
+          "recordedAt": "2026-06-24T08:09:58.221Z",
           "kind": "authentication",
           "actor": "kiran@example.com",
           "sourceIp": "198.51.100.110",
@@ -10113,7 +10113,7 @@
         },
         {
           "eventId": "auth:auth-fail-kiran-2",
-          "recordedAt": "2026-06-24T08:03:58.141Z",
+          "recordedAt": "2026-06-24T08:10:58.221Z",
           "kind": "authentication",
           "actor": "kiran@example.com",
           "sourceIp": "198.51.100.110",
@@ -10123,7 +10123,7 @@
         },
         {
           "eventId": "auth:auth-fail-kiran-3",
-          "recordedAt": "2026-06-24T08:04:58.141Z",
+          "recordedAt": "2026-06-24T08:11:58.221Z",
           "kind": "authentication",
           "actor": "kiran@example.com",
           "sourceIp": "198.51.100.110",
@@ -10144,8 +10144,8 @@
       "id": "5611b440-ccd3-4068-9f10-7cdb0ba7aaab",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:04:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:11:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-031",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -10165,7 +10165,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-031",
-          "recordedAt": "2026-06-24T08:04:58.141Z",
+          "recordedAt": "2026-06-24T08:11:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "198.51.100.50",
@@ -10188,8 +10188,8 @@
       "id": "6d3d50c6-145e-4274-b087-96873cc3cdca",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:03:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:10:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-030",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -10209,7 +10209,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-030",
-          "recordedAt": "2026-06-24T08:03:58.141Z",
+          "recordedAt": "2026-06-24T08:10:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "198.51.100.49",
@@ -10229,55 +10229,11 @@
       }
     },
     {
-      "id": "554da825-5ff4-45fe-a1b6-a6de8f5d66cc",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:02:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-029",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-erik",
-      "userId": "user-erik",
-      "sourceIp": "198.51.100.48",
-      "recordedAt": "2026-06-23T10:03:15.536Z",
-      "description": "user-erik received a 403 while calling SecretManager.GetSecretVersion against prod/service-029.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-029",
-          "recordedAt": "2026-06-24T08:02:58.141Z",
-          "kind": "audit",
-          "actor": "user-erik",
-          "sourceIp": "198.51.100.48",
-          "methodName": "GetSecretVersion",
-          "statusCode": 403,
-          "resource": "prod/service-029"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-029"
-        ]
-      }
-    },
-    {
       "id": "f4e9eb00-1ae2-4793-8427-fdf5eb3e7dc8",
       "status": "open",
       "createdAt": "2026-06-24T08:32:58.147Z",
-      "lastSeenAt": "2026-06-24T08:02:58.141Z",
-      "occurrences": 1,
+      "lastSeenAt": "2026-06-24T08:09:58.221Z",
+      "occurrences": 8,
       "fingerprint": "failed-login-burst:user-julia:2026-06-24T08",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -10297,7 +10253,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-julia-1",
-          "recordedAt": "2026-06-24T08:00:58.141Z",
+          "recordedAt": "2026-06-24T08:07:58.221Z",
           "kind": "authentication",
           "actor": "julia@example.com",
           "sourceIp": "198.51.100.109",
@@ -10307,7 +10263,7 @@
         },
         {
           "eventId": "auth:auth-fail-julia-2",
-          "recordedAt": "2026-06-24T08:01:58.141Z",
+          "recordedAt": "2026-06-24T08:08:58.221Z",
           "kind": "authentication",
           "actor": "julia@example.com",
           "sourceIp": "198.51.100.109",
@@ -10317,7 +10273,7 @@
         },
         {
           "eventId": "auth:auth-fail-julia-3",
-          "recordedAt": "2026-06-24T08:02:58.141Z",
+          "recordedAt": "2026-06-24T08:09:58.221Z",
           "kind": "authentication",
           "actor": "julia@example.com",
           "sourceIp": "198.51.100.109",
@@ -10335,11 +10291,55 @@
       }
     },
     {
+      "id": "554da825-5ff4-45fe-a1b6-a6de8f5d66cc",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:09:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-029",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-erik",
+      "userId": "user-erik",
+      "sourceIp": "198.51.100.48",
+      "recordedAt": "2026-06-23T10:03:15.536Z",
+      "description": "user-erik received a 403 while calling SecretManager.GetSecretVersion against prod/service-029.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-029",
+          "recordedAt": "2026-06-24T08:09:58.220Z",
+          "kind": "audit",
+          "actor": "user-erik",
+          "sourceIp": "198.51.100.48",
+          "methodName": "GetSecretVersion",
+          "statusCode": 403,
+          "resource": "prod/service-029"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-029"
+        ]
+      }
+    },
+    {
       "id": "41487746-39d7-4d53-aa68-685b8a2e542a",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:01:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:08:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-028",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -10359,7 +10359,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-028",
-          "recordedAt": "2026-06-24T08:01:58.141Z",
+          "recordedAt": "2026-06-24T08:08:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "198.51.100.47",
@@ -10376,6 +10376,748 @@
         "resourceNames": [
           "prod/service-028"
         ]
+      }
+    },
+    {
+      "id": "79cefa09-9df5-4f05-862b-ba510c280d7d",
+      "status": "open",
+      "createdAt": "2026-06-24T08:34:58.175Z",
+      "lastSeenAt": "2026-06-24T08:07:58.221Z",
+      "occurrences": 6,
+      "fingerprint": "failed-login-burst:user-ivan:2026-06-24T08",
+      "ruleId": "failed-login-burst",
+      "severity": "high",
+      "title": "Repeated failed authentication attempts",
+      "actor": "ivan@example.com",
+      "userId": "user-ivan",
+      "sourceIp": "198.51.100.108",
+      "recordedAt": "2026-06-24T08:02:58.167Z",
+      "description": "3 failed login attempts were observed for ivan@example.com within 15 minutes.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "auth:auth-fail-ivan-1",
+          "recordedAt": "2026-06-24T08:05:58.221Z",
+          "kind": "authentication",
+          "actor": "ivan@example.com",
+          "sourceIp": "198.51.100.108",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "ivan@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-ivan-2",
+          "recordedAt": "2026-06-24T08:06:58.221Z",
+          "kind": "authentication",
+          "actor": "ivan@example.com",
+          "sourceIp": "198.51.100.108",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "ivan@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-ivan-3",
+          "recordedAt": "2026-06-24T08:07:58.221Z",
+          "kind": "authentication",
+          "actor": "ivan@example.com",
+          "sourceIp": "198.51.100.108",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "ivan@example.com"
+        }
+      ],
+      "metadata": {
+        "failureReasons": [
+          "invalid_password",
+          "mfa_challenge_failed"
+        ],
+        "windowMinutes": 15
+      }
+    },
+    {
+      "id": "c3f880a5-c8e2-437f-aeeb-09bad2439305",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:07:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-027",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-charlie",
+      "userId": "user-charlie",
+      "sourceIp": "198.51.100.46",
+      "recordedAt": "2026-06-23T10:01:15.536Z",
+      "description": "user-charlie received a 403 while calling SecretManager.GetSecretVersion against prod/service-027.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-027",
+          "recordedAt": "2026-06-24T08:07:58.220Z",
+          "kind": "audit",
+          "actor": "user-charlie",
+          "sourceIp": "198.51.100.46",
+          "methodName": "GetSecretVersion",
+          "statusCode": 403,
+          "resource": "prod/service-027"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-027"
+        ]
+      }
+    },
+    {
+      "id": "31e1f1d1-50da-4a8c-8753-9749a97cbdf1",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:06:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-026",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-bob",
+      "userId": "user-bob",
+      "sourceIp": "198.51.100.45",
+      "recordedAt": "2026-06-23T10:00:15.536Z",
+      "description": "user-bob received a 403 while calling SecretManager.ListSecrets against prod/service-026.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-026",
+          "recordedAt": "2026-06-24T08:06:58.220Z",
+          "kind": "audit",
+          "actor": "user-bob",
+          "sourceIp": "198.51.100.45",
+          "methodName": "ListSecrets",
+          "statusCode": 403,
+          "resource": "prod/service-026"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-026"
+        ]
+      }
+    },
+    {
+      "id": "ff69919b-19c2-4054-b449-b2fd16437a0f",
+      "status": "open",
+      "createdAt": "2026-06-24T08:36:58.204Z",
+      "lastSeenAt": "2026-06-24T08:05:58.221Z",
+      "occurrences": 4,
+      "fingerprint": "failed-login-burst:user-hana:2026-06-24T08",
+      "ruleId": "failed-login-burst",
+      "severity": "high",
+      "title": "Repeated failed authentication attempts",
+      "actor": "hana@example.com",
+      "userId": "user-hana",
+      "sourceIp": "198.51.100.107",
+      "recordedAt": "2026-06-24T08:02:58.197Z",
+      "description": "3 failed login attempts were observed for hana@example.com within 15 minutes.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "auth:auth-fail-hana-1",
+          "recordedAt": "2026-06-24T08:03:58.221Z",
+          "kind": "authentication",
+          "actor": "hana@example.com",
+          "sourceIp": "198.51.100.107",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "hana@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-hana-2",
+          "recordedAt": "2026-06-24T08:04:58.221Z",
+          "kind": "authentication",
+          "actor": "hana@example.com",
+          "sourceIp": "198.51.100.107",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "hana@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-hana-3",
+          "recordedAt": "2026-06-24T08:05:58.221Z",
+          "kind": "authentication",
+          "actor": "hana@example.com",
+          "sourceIp": "198.51.100.107",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "hana@example.com"
+        }
+      ],
+      "metadata": {
+        "failureReasons": [
+          "invalid_password",
+          "mfa_challenge_failed"
+        ],
+        "windowMinutes": 15
+      }
+    },
+    {
+      "id": "24fd8192-4b9a-4f02-9b29-3222bb35eba5",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:05:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-025",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-alice",
+      "userId": "user-alice",
+      "sourceIp": "198.51.100.44",
+      "recordedAt": "2026-06-23T09:59:15.536Z",
+      "description": "user-alice received a 403 while calling SecretManager.GetSecretVersion against prod/service-025.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-025",
+          "recordedAt": "2026-06-24T08:05:58.220Z",
+          "kind": "audit",
+          "actor": "user-alice",
+          "sourceIp": "198.51.100.44",
+          "methodName": "GetSecretVersion",
+          "statusCode": 403,
+          "resource": "prod/service-025"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-025"
+        ]
+      }
+    },
+    {
+      "id": "61115edb-8201-472d-a140-41d765030f2a",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:04:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-024",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-lina",
+      "userId": "user-lina",
+      "sourceIp": "198.51.100.43",
+      "recordedAt": "2026-06-23T09:58:15.536Z",
+      "description": "user-lina received a 403 while calling SecretManager.ListSecrets against prod/service-024.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-024",
+          "recordedAt": "2026-06-24T08:04:58.220Z",
+          "kind": "audit",
+          "actor": "user-lina",
+          "sourceIp": "198.51.100.43",
+          "methodName": "ListSecrets",
+          "statusCode": 403,
+          "resource": "prod/service-024"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-024"
+        ]
+      }
+    },
+    {
+      "id": "2e0d52e0-4edd-4557-ae7a-50d4abb44aec",
+      "status": "open",
+      "createdAt": "2026-06-24T08:38:58.335Z",
+      "lastSeenAt": "2026-06-24T08:03:58.221Z",
+      "occurrences": 2,
+      "fingerprint": "failed-login-burst:user-gaurav:2026-06-24T08",
+      "ruleId": "failed-login-burst",
+      "severity": "high",
+      "title": "Repeated failed authentication attempts",
+      "actor": "gaurav@example.com",
+      "userId": "user-gaurav",
+      "sourceIp": "198.51.100.106",
+      "recordedAt": "2026-06-24T08:02:58.328Z",
+      "description": "3 failed login attempts were observed for gaurav@example.com within 15 minutes.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "auth:auth-fail-gaurav-1",
+          "recordedAt": "2026-06-24T08:01:58.221Z",
+          "kind": "authentication",
+          "actor": "gaurav@example.com",
+          "sourceIp": "198.51.100.106",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "gaurav@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-gaurav-2",
+          "recordedAt": "2026-06-24T08:02:58.221Z",
+          "kind": "authentication",
+          "actor": "gaurav@example.com",
+          "sourceIp": "198.51.100.106",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "gaurav@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-gaurav-3",
+          "recordedAt": "2026-06-24T08:03:58.221Z",
+          "kind": "authentication",
+          "actor": "gaurav@example.com",
+          "sourceIp": "198.51.100.106",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "gaurav@example.com"
+        }
+      ],
+      "metadata": {
+        "failureReasons": [
+          "invalid_password",
+          "mfa_challenge_failed"
+        ],
+        "windowMinutes": 15
+      }
+    },
+    {
+      "id": "5471051e-bdf7-4635-a196-d7b7fe66d58d",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:03:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-023",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-kiran",
+      "userId": "user-kiran",
+      "sourceIp": "198.51.100.42",
+      "recordedAt": "2026-06-23T09:57:15.536Z",
+      "description": "user-kiran received a 403 while calling SecretManager.GetSecretVersion against prod/service-023.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-023",
+          "recordedAt": "2026-06-24T08:03:58.220Z",
+          "kind": "audit",
+          "actor": "user-kiran",
+          "sourceIp": "198.51.100.42",
+          "methodName": "GetSecretVersion",
+          "statusCode": 403,
+          "resource": "prod/service-023"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-023"
+        ]
+      }
+    },
+    {
+      "id": "264041b4-4e5e-4571-a094-bf0ede94c4b9",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:02:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-022",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-julia",
+      "userId": "user-julia",
+      "sourceIp": "198.51.100.41",
+      "recordedAt": "2026-06-23T09:56:15.536Z",
+      "description": "user-julia received a 403 while calling SecretManager.ListSecrets against prod/service-022.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-022",
+          "recordedAt": "2026-06-24T08:02:58.220Z",
+          "kind": "audit",
+          "actor": "user-julia",
+          "sourceIp": "198.51.100.41",
+          "methodName": "ListSecrets",
+          "statusCode": 403,
+          "resource": "prod/service-022"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-022"
+        ]
+      }
+    },
+    {
+      "id": "aefb016a-28c4-4d9c-8f45-1cdba0831359",
+      "status": "open",
+      "createdAt": "2026-06-24T08:27:13.840Z",
+      "lastSeenAt": "2026-06-24T08:01:58.221Z",
+      "occurrences": 15,
+      "fingerprint": "failed-login-burst:user-fatima:2026-06-24T07",
+      "ruleId": "failed-login-burst",
+      "severity": "high",
+      "title": "Repeated failed authentication attempts",
+      "actor": "fatima@example.com",
+      "userId": "user-fatima",
+      "sourceIp": "198.51.100.105",
+      "recordedAt": "2026-06-24T07:49:13.729Z",
+      "description": "3 failed login attempts were observed for fatima@example.com within 15 minutes.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "auth:auth-fail-fatima-1",
+          "recordedAt": "2026-06-24T07:59:58.221Z",
+          "kind": "authentication",
+          "actor": "fatima@example.com",
+          "sourceIp": "198.51.100.105",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "fatima@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-fatima-2",
+          "recordedAt": "2026-06-24T08:00:58.221Z",
+          "kind": "authentication",
+          "actor": "fatima@example.com",
+          "sourceIp": "198.51.100.105",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "fatima@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-fatima-3",
+          "recordedAt": "2026-06-24T08:01:58.221Z",
+          "kind": "authentication",
+          "actor": "fatima@example.com",
+          "sourceIp": "198.51.100.105",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "fatima@example.com"
+        }
+      ],
+      "metadata": {
+        "failureReasons": [
+          "invalid_password",
+          "mfa_challenge_failed"
+        ],
+        "windowMinutes": 15
+      }
+    },
+    {
+      "id": "020b344c-5f3f-45f7-8b38-b3f9145de2d4",
+      "status": "open",
+      "createdAt": "2026-06-23T10:33:15.589Z",
+      "lastSeenAt": "2026-06-24T08:01:58.220Z",
+      "occurrences": 143,
+      "fingerprint": "forbidden-sensitive-access:audit-secret-021",
+      "ruleId": "forbidden-sensitive-access",
+      "severity": "high",
+      "title": "Forbidden access attempt on sensitive resource",
+      "actor": "user-ivan",
+      "userId": "user-ivan",
+      "sourceIp": "198.51.100.40",
+      "recordedAt": "2026-06-23T09:55:15.536Z",
+      "description": "user-ivan received a 403 while calling SecretManager.GetSecretVersion against prod/service-021.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "audit:audit-secret-021",
+          "recordedAt": "2026-06-24T08:01:58.220Z",
+          "kind": "audit",
+          "actor": "user-ivan",
+          "sourceIp": "198.51.100.40",
+          "methodName": "GetSecretVersion",
+          "statusCode": 403,
+          "resource": "prod/service-021"
+        }
+      ],
+      "metadata": {
+        "statusCode": 403,
+        "resourceTypes": [
+          "secret_manager_secret"
+        ],
+        "resourceNames": [
+          "prod/service-021"
+        ]
+      }
+    },
+    {
+      "id": "16cf71a4-c0a9-42b0-adb8-36fe0181ebb2",
+      "status": "open",
+      "createdAt": "2026-06-24T08:27:13.841Z",
+      "lastSeenAt": "2026-06-24T08:01:58.199Z",
+      "occurrences": 13,
+      "fingerprint": "failed-login-burst:user-gaurav:2026-06-24T07",
+      "ruleId": "failed-login-burst",
+      "severity": "high",
+      "title": "Repeated failed authentication attempts",
+      "actor": "gaurav@example.com",
+      "userId": "user-gaurav",
+      "sourceIp": "198.51.100.106",
+      "recordedAt": "2026-06-24T07:51:13.729Z",
+      "description": "3 failed login attempts were observed for gaurav@example.com within 15 minutes.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "auth:auth-fail-gaurav-1",
+          "recordedAt": "2026-06-24T07:59:58.199Z",
+          "kind": "authentication",
+          "actor": "gaurav@example.com",
+          "sourceIp": "198.51.100.106",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "gaurav@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-gaurav-2",
+          "recordedAt": "2026-06-24T08:00:58.199Z",
+          "kind": "authentication",
+          "actor": "gaurav@example.com",
+          "sourceIp": "198.51.100.106",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "gaurav@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-gaurav-3",
+          "recordedAt": "2026-06-24T08:01:58.199Z",
+          "kind": "authentication",
+          "actor": "gaurav@example.com",
+          "sourceIp": "198.51.100.106",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "gaurav@example.com"
+        }
+      ],
+      "metadata": {
+        "failureReasons": [
+          "invalid_password",
+          "mfa_challenge_failed"
+        ],
+        "windowMinutes": 15
+      }
+    },
+    {
+      "id": "ac6fb4e2-6cc0-46b0-b4c5-e527bd9ed663",
+      "status": "open",
+      "createdAt": "2026-06-24T08:27:13.841Z",
+      "lastSeenAt": "2026-06-24T08:01:58.183Z",
+      "occurrences": 11,
+      "fingerprint": "failed-login-burst:user-hana:2026-06-24T07",
+      "ruleId": "failed-login-burst",
+      "severity": "high",
+      "title": "Repeated failed authentication attempts",
+      "actor": "hana@example.com",
+      "userId": "user-hana",
+      "sourceIp": "198.51.100.107",
+      "recordedAt": "2026-06-24T07:53:13.729Z",
+      "description": "3 failed login attempts were observed for hana@example.com within 15 minutes.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "auth:auth-fail-hana-1",
+          "recordedAt": "2026-06-24T07:59:58.183Z",
+          "kind": "authentication",
+          "actor": "hana@example.com",
+          "sourceIp": "198.51.100.107",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "hana@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-hana-2",
+          "recordedAt": "2026-06-24T08:00:58.183Z",
+          "kind": "authentication",
+          "actor": "hana@example.com",
+          "sourceIp": "198.51.100.107",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "hana@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-hana-3",
+          "recordedAt": "2026-06-24T08:01:58.183Z",
+          "kind": "authentication",
+          "actor": "hana@example.com",
+          "sourceIp": "198.51.100.107",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "hana@example.com"
+        }
+      ],
+      "metadata": {
+        "failureReasons": [
+          "invalid_password",
+          "mfa_challenge_failed"
+        ],
+        "windowMinutes": 15
+      }
+    },
+    {
+      "id": "06b70659-278a-4480-9269-2c230d79d752",
+      "status": "open",
+      "createdAt": "2026-06-24T08:27:13.841Z",
+      "lastSeenAt": "2026-06-24T08:01:58.154Z",
+      "occurrences": 9,
+      "fingerprint": "failed-login-burst:user-ivan:2026-06-24T07",
+      "ruleId": "failed-login-burst",
+      "severity": "high",
+      "title": "Repeated failed authentication attempts",
+      "actor": "ivan@example.com",
+      "userId": "user-ivan",
+      "sourceIp": "198.51.100.108",
+      "recordedAt": "2026-06-24T07:55:13.729Z",
+      "description": "3 failed login attempts were observed for ivan@example.com within 15 minutes.",
+      "remediation": {
+        "supported": true,
+        "actions": [
+          "lock",
+          "unlock"
+        ]
+      },
+      "evidence": [
+        {
+          "eventId": "auth:auth-fail-ivan-1",
+          "recordedAt": "2026-06-24T07:59:58.154Z",
+          "kind": "authentication",
+          "actor": "ivan@example.com",
+          "sourceIp": "198.51.100.108",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "ivan@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-ivan-2",
+          "recordedAt": "2026-06-24T08:00:58.154Z",
+          "kind": "authentication",
+          "actor": "ivan@example.com",
+          "sourceIp": "198.51.100.108",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "ivan@example.com"
+        },
+        {
+          "eventId": "auth:auth-fail-ivan-3",
+          "recordedAt": "2026-06-24T08:01:58.154Z",
+          "kind": "authentication",
+          "actor": "ivan@example.com",
+          "sourceIp": "198.51.100.108",
+          "methodName": "password",
+          "result": "failure",
+          "resource": "ivan@example.com"
+        }
+      ],
+      "metadata": {
+        "failureReasons": [
+          "invalid_password",
+          "mfa_challenge_failed"
+        ],
+        "windowMinutes": 15
       }
     },
     {
@@ -10565,567 +11307,11 @@
       }
     },
     {
-      "id": "06b70659-278a-4480-9269-2c230d79d752",
-      "status": "open",
-      "createdAt": "2026-06-24T08:27:13.841Z",
-      "lastSeenAt": "2026-06-24T08:00:58.141Z",
-      "occurrences": 8,
-      "fingerprint": "failed-login-burst:user-ivan:2026-06-24T07",
-      "ruleId": "failed-login-burst",
-      "severity": "high",
-      "title": "Repeated failed authentication attempts",
-      "actor": "ivan@example.com",
-      "userId": "user-ivan",
-      "sourceIp": "198.51.100.108",
-      "recordedAt": "2026-06-24T07:55:13.729Z",
-      "description": "3 failed login attempts were observed for ivan@example.com within 15 minutes.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "auth:auth-fail-ivan-1",
-          "recordedAt": "2026-06-24T07:58:58.141Z",
-          "kind": "authentication",
-          "actor": "ivan@example.com",
-          "sourceIp": "198.51.100.108",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "ivan@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-ivan-2",
-          "recordedAt": "2026-06-24T07:59:58.141Z",
-          "kind": "authentication",
-          "actor": "ivan@example.com",
-          "sourceIp": "198.51.100.108",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "ivan@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-ivan-3",
-          "recordedAt": "2026-06-24T08:00:58.141Z",
-          "kind": "authentication",
-          "actor": "ivan@example.com",
-          "sourceIp": "198.51.100.108",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "ivan@example.com"
-        }
-      ],
-      "metadata": {
-        "failureReasons": [
-          "invalid_password",
-          "mfa_challenge_failed"
-        ],
-        "windowMinutes": 15
-      }
-    },
-    {
-      "id": "c3f880a5-c8e2-437f-aeeb-09bad2439305",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:00:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-027",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-charlie",
-      "userId": "user-charlie",
-      "sourceIp": "198.51.100.46",
-      "recordedAt": "2026-06-23T10:01:15.536Z",
-      "description": "user-charlie received a 403 while calling SecretManager.GetSecretVersion against prod/service-027.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-027",
-          "recordedAt": "2026-06-24T08:00:58.141Z",
-          "kind": "audit",
-          "actor": "user-charlie",
-          "sourceIp": "198.51.100.46",
-          "methodName": "GetSecretVersion",
-          "statusCode": 403,
-          "resource": "prod/service-027"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-027"
-        ]
-      }
-    },
-    {
-      "id": "31e1f1d1-50da-4a8c-8753-9749a97cbdf1",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:59:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-026",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-bob",
-      "userId": "user-bob",
-      "sourceIp": "198.51.100.45",
-      "recordedAt": "2026-06-23T10:00:15.536Z",
-      "description": "user-bob received a 403 while calling SecretManager.ListSecrets against prod/service-026.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-026",
-          "recordedAt": "2026-06-24T07:59:58.141Z",
-          "kind": "audit",
-          "actor": "user-bob",
-          "sourceIp": "198.51.100.45",
-          "methodName": "ListSecrets",
-          "statusCode": 403,
-          "resource": "prod/service-026"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-026"
-        ]
-      }
-    },
-    {
-      "id": "ac6fb4e2-6cc0-46b0-b4c5-e527bd9ed663",
-      "status": "open",
-      "createdAt": "2026-06-24T08:27:13.841Z",
-      "lastSeenAt": "2026-06-24T07:58:58.141Z",
-      "occurrences": 8,
-      "fingerprint": "failed-login-burst:user-hana:2026-06-24T07",
-      "ruleId": "failed-login-burst",
-      "severity": "high",
-      "title": "Repeated failed authentication attempts",
-      "actor": "hana@example.com",
-      "userId": "user-hana",
-      "sourceIp": "198.51.100.107",
-      "recordedAt": "2026-06-24T07:53:13.729Z",
-      "description": "3 failed login attempts were observed for hana@example.com within 15 minutes.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "auth:auth-fail-hana-1",
-          "recordedAt": "2026-06-24T07:56:58.141Z",
-          "kind": "authentication",
-          "actor": "hana@example.com",
-          "sourceIp": "198.51.100.107",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "hana@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-hana-2",
-          "recordedAt": "2026-06-24T07:57:58.141Z",
-          "kind": "authentication",
-          "actor": "hana@example.com",
-          "sourceIp": "198.51.100.107",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "hana@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-hana-3",
-          "recordedAt": "2026-06-24T07:58:58.141Z",
-          "kind": "authentication",
-          "actor": "hana@example.com",
-          "sourceIp": "198.51.100.107",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "hana@example.com"
-        }
-      ],
-      "metadata": {
-        "failureReasons": [
-          "invalid_password",
-          "mfa_challenge_failed"
-        ],
-        "windowMinutes": 15
-      }
-    },
-    {
-      "id": "24fd8192-4b9a-4f02-9b29-3222bb35eba5",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:58:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-025",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-alice",
-      "userId": "user-alice",
-      "sourceIp": "198.51.100.44",
-      "recordedAt": "2026-06-23T09:59:15.536Z",
-      "description": "user-alice received a 403 while calling SecretManager.GetSecretVersion against prod/service-025.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-025",
-          "recordedAt": "2026-06-24T07:58:58.141Z",
-          "kind": "audit",
-          "actor": "user-alice",
-          "sourceIp": "198.51.100.44",
-          "methodName": "GetSecretVersion",
-          "statusCode": 403,
-          "resource": "prod/service-025"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-025"
-        ]
-      }
-    },
-    {
-      "id": "61115edb-8201-472d-a140-41d765030f2a",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:57:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-024",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-lina",
-      "userId": "user-lina",
-      "sourceIp": "198.51.100.43",
-      "recordedAt": "2026-06-23T09:58:15.536Z",
-      "description": "user-lina received a 403 while calling SecretManager.ListSecrets against prod/service-024.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-024",
-          "recordedAt": "2026-06-24T07:57:58.141Z",
-          "kind": "audit",
-          "actor": "user-lina",
-          "sourceIp": "198.51.100.43",
-          "methodName": "ListSecrets",
-          "statusCode": 403,
-          "resource": "prod/service-024"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-024"
-        ]
-      }
-    },
-    {
-      "id": "16cf71a4-c0a9-42b0-adb8-36fe0181ebb2",
-      "status": "open",
-      "createdAt": "2026-06-24T08:27:13.841Z",
-      "lastSeenAt": "2026-06-24T07:56:58.141Z",
-      "occurrences": 8,
-      "fingerprint": "failed-login-burst:user-gaurav:2026-06-24T07",
-      "ruleId": "failed-login-burst",
-      "severity": "high",
-      "title": "Repeated failed authentication attempts",
-      "actor": "gaurav@example.com",
-      "userId": "user-gaurav",
-      "sourceIp": "198.51.100.106",
-      "recordedAt": "2026-06-24T07:51:13.729Z",
-      "description": "3 failed login attempts were observed for gaurav@example.com within 15 minutes.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "auth:auth-fail-gaurav-1",
-          "recordedAt": "2026-06-24T07:54:58.141Z",
-          "kind": "authentication",
-          "actor": "gaurav@example.com",
-          "sourceIp": "198.51.100.106",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "gaurav@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-gaurav-2",
-          "recordedAt": "2026-06-24T07:55:58.141Z",
-          "kind": "authentication",
-          "actor": "gaurav@example.com",
-          "sourceIp": "198.51.100.106",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "gaurav@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-gaurav-3",
-          "recordedAt": "2026-06-24T07:56:58.141Z",
-          "kind": "authentication",
-          "actor": "gaurav@example.com",
-          "sourceIp": "198.51.100.106",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "gaurav@example.com"
-        }
-      ],
-      "metadata": {
-        "failureReasons": [
-          "invalid_password",
-          "mfa_challenge_failed"
-        ],
-        "windowMinutes": 15
-      }
-    },
-    {
-      "id": "5471051e-bdf7-4635-a196-d7b7fe66d58d",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:56:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-023",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-kiran",
-      "userId": "user-kiran",
-      "sourceIp": "198.51.100.42",
-      "recordedAt": "2026-06-23T09:57:15.536Z",
-      "description": "user-kiran received a 403 while calling SecretManager.GetSecretVersion against prod/service-023.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-023",
-          "recordedAt": "2026-06-24T07:56:58.141Z",
-          "kind": "audit",
-          "actor": "user-kiran",
-          "sourceIp": "198.51.100.42",
-          "methodName": "GetSecretVersion",
-          "statusCode": 403,
-          "resource": "prod/service-023"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-023"
-        ]
-      }
-    },
-    {
-      "id": "264041b4-4e5e-4571-a094-bf0ede94c4b9",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:55:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-022",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-julia",
-      "userId": "user-julia",
-      "sourceIp": "198.51.100.41",
-      "recordedAt": "2026-06-23T09:56:15.536Z",
-      "description": "user-julia received a 403 while calling SecretManager.ListSecrets against prod/service-022.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-022",
-          "recordedAt": "2026-06-24T07:55:58.141Z",
-          "kind": "audit",
-          "actor": "user-julia",
-          "sourceIp": "198.51.100.41",
-          "methodName": "ListSecrets",
-          "statusCode": 403,
-          "resource": "prod/service-022"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-022"
-        ]
-      }
-    },
-    {
-      "id": "aefb016a-28c4-4d9c-8f45-1cdba0831359",
-      "status": "open",
-      "createdAt": "2026-06-24T08:27:13.840Z",
-      "lastSeenAt": "2026-06-24T07:54:58.141Z",
-      "occurrences": 8,
-      "fingerprint": "failed-login-burst:user-fatima:2026-06-24T07",
-      "ruleId": "failed-login-burst",
-      "severity": "high",
-      "title": "Repeated failed authentication attempts",
-      "actor": "fatima@example.com",
-      "userId": "user-fatima",
-      "sourceIp": "198.51.100.105",
-      "recordedAt": "2026-06-24T07:49:13.729Z",
-      "description": "3 failed login attempts were observed for fatima@example.com within 15 minutes.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "auth:auth-fail-fatima-1",
-          "recordedAt": "2026-06-24T07:52:58.141Z",
-          "kind": "authentication",
-          "actor": "fatima@example.com",
-          "sourceIp": "198.51.100.105",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "fatima@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-fatima-2",
-          "recordedAt": "2026-06-24T07:53:58.141Z",
-          "kind": "authentication",
-          "actor": "fatima@example.com",
-          "sourceIp": "198.51.100.105",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "fatima@example.com"
-        },
-        {
-          "eventId": "auth:auth-fail-fatima-3",
-          "recordedAt": "2026-06-24T07:54:58.141Z",
-          "kind": "authentication",
-          "actor": "fatima@example.com",
-          "sourceIp": "198.51.100.105",
-          "methodName": "password",
-          "result": "failure",
-          "resource": "fatima@example.com"
-        }
-      ],
-      "metadata": {
-        "failureReasons": [
-          "invalid_password",
-          "mfa_challenge_failed"
-        ],
-        "windowMinutes": 15
-      }
-    },
-    {
-      "id": "020b344c-5f3f-45f7-8b38-b3f9145de2d4",
-      "status": "open",
-      "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:54:58.141Z",
-      "occurrences": 136,
-      "fingerprint": "forbidden-sensitive-access:audit-secret-021",
-      "ruleId": "forbidden-sensitive-access",
-      "severity": "high",
-      "title": "Forbidden access attempt on sensitive resource",
-      "actor": "user-ivan",
-      "userId": "user-ivan",
-      "sourceIp": "198.51.100.40",
-      "recordedAt": "2026-06-23T09:55:15.536Z",
-      "description": "user-ivan received a 403 while calling SecretManager.GetSecretVersion against prod/service-021.",
-      "remediation": {
-        "supported": true,
-        "actions": [
-          "lock",
-          "unlock"
-        ]
-      },
-      "evidence": [
-        {
-          "eventId": "audit:audit-secret-021",
-          "recordedAt": "2026-06-24T07:54:58.141Z",
-          "kind": "audit",
-          "actor": "user-ivan",
-          "sourceIp": "198.51.100.40",
-          "methodName": "GetSecretVersion",
-          "statusCode": 403,
-          "resource": "prod/service-021"
-        }
-      ],
-      "metadata": {
-        "statusCode": 403,
-        "resourceTypes": [
-          "secret_manager_secret"
-        ],
-        "resourceNames": [
-          "prod/service-021"
-        ]
-      }
-    },
-    {
       "id": "78599380-f9c1-4acf-8563-b1d11f05b396",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:53:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:00:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-020",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11145,7 +11331,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-020",
-          "recordedAt": "2026-06-24T07:53:58.141Z",
+          "recordedAt": "2026-06-24T08:00:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "198.51.100.39",
@@ -11168,8 +11354,8 @@
       "id": "05158615-1888-4a44-900a-40bddf227665",
       "status": "open",
       "createdAt": "2026-06-24T08:27:13.840Z",
-      "lastSeenAt": "2026-06-24T07:52:58.141Z",
-      "occurrences": 8,
+      "lastSeenAt": "2026-06-24T07:59:58.221Z",
+      "occurrences": 15,
       "fingerprint": "failed-login-burst:user-erik:2026-06-24T07",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -11189,7 +11375,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-erik-1",
-          "recordedAt": "2026-06-24T07:50:58.141Z",
+          "recordedAt": "2026-06-24T07:57:58.221Z",
           "kind": "authentication",
           "actor": "erik@example.com",
           "sourceIp": "198.51.100.104",
@@ -11199,7 +11385,7 @@
         },
         {
           "eventId": "auth:auth-fail-erik-2",
-          "recordedAt": "2026-06-24T07:51:58.141Z",
+          "recordedAt": "2026-06-24T07:58:58.221Z",
           "kind": "authentication",
           "actor": "erik@example.com",
           "sourceIp": "198.51.100.104",
@@ -11209,7 +11395,7 @@
         },
         {
           "eventId": "auth:auth-fail-erik-3",
-          "recordedAt": "2026-06-24T07:52:58.141Z",
+          "recordedAt": "2026-06-24T07:59:58.221Z",
           "kind": "authentication",
           "actor": "erik@example.com",
           "sourceIp": "198.51.100.104",
@@ -11230,8 +11416,8 @@
       "id": "db4470b3-32e9-4cae-aff8-27f999ad185c",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:52:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:59:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-019",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11251,7 +11437,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-019",
-          "recordedAt": "2026-06-24T07:52:58.141Z",
+          "recordedAt": "2026-06-24T07:59:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "198.51.100.38",
@@ -11274,8 +11460,8 @@
       "id": "a84f4f1c-28e4-431c-8c72-459b2c6bc103",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:51:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:58:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-018",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11295,7 +11481,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-018",
-          "recordedAt": "2026-06-24T07:51:58.141Z",
+          "recordedAt": "2026-06-24T07:58:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "198.51.100.37",
@@ -11318,8 +11504,8 @@
       "id": "40807147-964c-4ca2-88fd-e914d18914d2",
       "status": "open",
       "createdAt": "2026-06-24T08:27:13.840Z",
-      "lastSeenAt": "2026-06-24T07:50:58.141Z",
-      "occurrences": 8,
+      "lastSeenAt": "2026-06-24T07:57:58.221Z",
+      "occurrences": 15,
       "fingerprint": "failed-login-burst:user-dina:2026-06-24T07",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -11339,7 +11525,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-dina-1",
-          "recordedAt": "2026-06-24T07:48:58.141Z",
+          "recordedAt": "2026-06-24T07:55:58.221Z",
           "kind": "authentication",
           "actor": "dina@example.com",
           "sourceIp": "198.51.100.103",
@@ -11349,7 +11535,7 @@
         },
         {
           "eventId": "auth:auth-fail-dina-2",
-          "recordedAt": "2026-06-24T07:49:58.141Z",
+          "recordedAt": "2026-06-24T07:56:58.221Z",
           "kind": "authentication",
           "actor": "dina@example.com",
           "sourceIp": "198.51.100.103",
@@ -11359,7 +11545,7 @@
         },
         {
           "eventId": "auth:auth-fail-dina-3",
-          "recordedAt": "2026-06-24T07:50:58.141Z",
+          "recordedAt": "2026-06-24T07:57:58.221Z",
           "kind": "authentication",
           "actor": "dina@example.com",
           "sourceIp": "198.51.100.103",
@@ -11380,8 +11566,8 @@
       "id": "8dbda422-00c9-4e5c-9c00-d2046d67cf4b",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:50:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:57:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-017",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11401,7 +11587,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-017",
-          "recordedAt": "2026-06-24T07:50:58.141Z",
+          "recordedAt": "2026-06-24T07:57:58.220Z",
           "kind": "audit",
           "actor": "user-erik",
           "sourceIp": "198.51.100.36",
@@ -11424,8 +11610,8 @@
       "id": "708b39ec-2696-46f8-bdca-05f9780ad5ab",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:49:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:56:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-016",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11445,7 +11631,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-016",
-          "recordedAt": "2026-06-24T07:49:58.141Z",
+          "recordedAt": "2026-06-24T07:56:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "198.51.100.35",
@@ -11468,8 +11654,8 @@
       "id": "e000ac7a-d9b8-4906-880d-b28d4efa44d8",
       "status": "open",
       "createdAt": "2026-06-24T08:27:13.840Z",
-      "lastSeenAt": "2026-06-24T07:48:58.141Z",
-      "occurrences": 8,
+      "lastSeenAt": "2026-06-24T07:55:58.221Z",
+      "occurrences": 15,
       "fingerprint": "failed-login-burst:user-charlie:2026-06-24T07",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -11489,7 +11675,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-charlie-1",
-          "recordedAt": "2026-06-24T07:46:58.141Z",
+          "recordedAt": "2026-06-24T07:53:58.221Z",
           "kind": "authentication",
           "actor": "charlie@example.com",
           "sourceIp": "198.51.100.102",
@@ -11499,7 +11685,7 @@
         },
         {
           "eventId": "auth:auth-fail-charlie-2",
-          "recordedAt": "2026-06-24T07:47:58.141Z",
+          "recordedAt": "2026-06-24T07:54:58.221Z",
           "kind": "authentication",
           "actor": "charlie@example.com",
           "sourceIp": "198.51.100.102",
@@ -11509,7 +11695,7 @@
         },
         {
           "eventId": "auth:auth-fail-charlie-3",
-          "recordedAt": "2026-06-24T07:48:58.141Z",
+          "recordedAt": "2026-06-24T07:55:58.221Z",
           "kind": "authentication",
           "actor": "charlie@example.com",
           "sourceIp": "198.51.100.102",
@@ -11530,8 +11716,8 @@
       "id": "f92324a5-4a15-4b45-89c8-179264a07c96",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:48:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:55:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-015",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11551,7 +11737,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-015",
-          "recordedAt": "2026-06-24T07:48:58.141Z",
+          "recordedAt": "2026-06-24T07:55:58.220Z",
           "kind": "audit",
           "actor": "user-charlie",
           "sourceIp": "198.51.100.34",
@@ -11574,8 +11760,8 @@
       "id": "d4ae146b-8de3-4a6c-a5ea-dd35c067f505",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:47:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:54:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-014",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11595,7 +11781,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-014",
-          "recordedAt": "2026-06-24T07:47:58.141Z",
+          "recordedAt": "2026-06-24T07:54:58.220Z",
           "kind": "audit",
           "actor": "user-bob",
           "sourceIp": "198.51.100.33",
@@ -11618,8 +11804,8 @@
       "id": "9c318222-4db0-41c3-9129-19afb03bc575",
       "status": "open",
       "createdAt": "2026-06-24T08:27:13.840Z",
-      "lastSeenAt": "2026-06-24T07:46:58.141Z",
-      "occurrences": 8,
+      "lastSeenAt": "2026-06-24T07:53:58.221Z",
+      "occurrences": 15,
       "fingerprint": "failed-login-burst:user-bob:2026-06-24T07",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -11639,7 +11825,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-bob-1",
-          "recordedAt": "2026-06-24T07:44:58.141Z",
+          "recordedAt": "2026-06-24T07:51:58.221Z",
           "kind": "authentication",
           "actor": "bob@example.com",
           "sourceIp": "198.51.100.101",
@@ -11649,7 +11835,7 @@
         },
         {
           "eventId": "auth:auth-fail-bob-2",
-          "recordedAt": "2026-06-24T07:45:58.141Z",
+          "recordedAt": "2026-06-24T07:52:58.221Z",
           "kind": "authentication",
           "actor": "bob@example.com",
           "sourceIp": "198.51.100.101",
@@ -11659,7 +11845,7 @@
         },
         {
           "eventId": "auth:auth-fail-bob-3",
-          "recordedAt": "2026-06-24T07:46:58.141Z",
+          "recordedAt": "2026-06-24T07:53:58.221Z",
           "kind": "authentication",
           "actor": "bob@example.com",
           "sourceIp": "198.51.100.101",
@@ -11680,8 +11866,8 @@
       "id": "5a896d17-aa9f-47cf-8a08-ae073fe33b55",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:46:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:53:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-013",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11701,7 +11887,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-013",
-          "recordedAt": "2026-06-24T07:46:58.141Z",
+          "recordedAt": "2026-06-24T07:53:58.220Z",
           "kind": "audit",
           "actor": "user-alice",
           "sourceIp": "198.51.100.32",
@@ -11724,8 +11910,8 @@
       "id": "a1e82bed-27be-4738-818d-63c8741ffa3e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:45:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:52:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-012",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11745,7 +11931,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-012",
-          "recordedAt": "2026-06-24T07:45:58.141Z",
+          "recordedAt": "2026-06-24T07:52:58.220Z",
           "kind": "audit",
           "actor": "user-lina",
           "sourceIp": "198.51.100.31",
@@ -11768,8 +11954,8 @@
       "id": "f567614d-ef2d-4936-af99-1b533761d9da",
       "status": "open",
       "createdAt": "2026-06-24T08:27:13.840Z",
-      "lastSeenAt": "2026-06-24T07:44:58.141Z",
-      "occurrences": 8,
+      "lastSeenAt": "2026-06-24T07:51:58.221Z",
+      "occurrences": 15,
       "fingerprint": "failed-login-burst:user-alice:2026-06-24T07",
       "ruleId": "failed-login-burst",
       "severity": "high",
@@ -11789,7 +11975,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-fail-alice-1",
-          "recordedAt": "2026-06-24T07:42:58.141Z",
+          "recordedAt": "2026-06-24T07:49:58.220Z",
           "kind": "authentication",
           "actor": "alice@example.com",
           "sourceIp": "198.51.100.100",
@@ -11799,7 +11985,7 @@
         },
         {
           "eventId": "auth:auth-fail-alice-2",
-          "recordedAt": "2026-06-24T07:43:58.141Z",
+          "recordedAt": "2026-06-24T07:50:58.221Z",
           "kind": "authentication",
           "actor": "alice@example.com",
           "sourceIp": "198.51.100.100",
@@ -11809,7 +11995,7 @@
         },
         {
           "eventId": "auth:auth-fail-alice-3",
-          "recordedAt": "2026-06-24T07:44:58.141Z",
+          "recordedAt": "2026-06-24T07:51:58.221Z",
           "kind": "authentication",
           "actor": "alice@example.com",
           "sourceIp": "198.51.100.100",
@@ -11830,8 +12016,8 @@
       "id": "35a08983-c983-4d71-baa4-2bc45e687ff9",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:44:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:51:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-011",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11851,7 +12037,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-011",
-          "recordedAt": "2026-06-24T07:44:58.141Z",
+          "recordedAt": "2026-06-24T07:51:58.220Z",
           "kind": "audit",
           "actor": "user-kiran",
           "sourceIp": "198.51.100.30",
@@ -11874,8 +12060,8 @@
       "id": "99c78922-4504-41b8-8688-ccb675815283",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:43:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:50:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-010",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11895,7 +12081,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-010",
-          "recordedAt": "2026-06-24T07:43:58.141Z",
+          "recordedAt": "2026-06-24T07:50:58.220Z",
           "kind": "audit",
           "actor": "user-julia",
           "sourceIp": "198.51.100.29",
@@ -11918,8 +12104,8 @@
       "id": "53807f44-ca16-44e4-9fce-a02d3cc161e3",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:42:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:49:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-009",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11939,7 +12125,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-009",
-          "recordedAt": "2026-06-24T07:42:58.141Z",
+          "recordedAt": "2026-06-24T07:49:58.220Z",
           "kind": "audit",
           "actor": "user-ivan",
           "sourceIp": "198.51.100.28",
@@ -11962,8 +12148,8 @@
       "id": "f9a6c85d-e36e-4c72-984d-78c96243c4bd",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:41:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:48:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-008",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -11983,7 +12169,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-008",
-          "recordedAt": "2026-06-24T07:41:58.141Z",
+          "recordedAt": "2026-06-24T07:48:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "198.51.100.27",
@@ -12006,8 +12192,8 @@
       "id": "80016083-9ace-4c53-bf28-efdb196326c8",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:40:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:47:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-007",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -12027,7 +12213,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-007",
-          "recordedAt": "2026-06-24T07:40:58.141Z",
+          "recordedAt": "2026-06-24T07:47:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "198.51.100.26",
@@ -12050,8 +12236,8 @@
       "id": "00c3d67b-2a49-491c-addc-b74a024ecb5a",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:39:58.140Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:46:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-006",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -12071,7 +12257,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-006",
-          "recordedAt": "2026-06-24T07:39:58.140Z",
+          "recordedAt": "2026-06-24T07:46:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "198.51.100.25",
@@ -12094,8 +12280,8 @@
       "id": "10270725-827a-4aaf-869f-f58dc2ec554f",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:38:58.140Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:45:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-005",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -12115,7 +12301,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-005",
-          "recordedAt": "2026-06-24T07:38:58.140Z",
+          "recordedAt": "2026-06-24T07:45:58.220Z",
           "kind": "audit",
           "actor": "user-erik",
           "sourceIp": "198.51.100.24",
@@ -12138,8 +12324,8 @@
       "id": "786fdd05-11e8-4f21-83c0-a30bc1fabc23",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:37:58.140Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:44:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-004",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -12159,7 +12345,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-004",
-          "recordedAt": "2026-06-24T07:37:58.140Z",
+          "recordedAt": "2026-06-24T07:44:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "198.51.100.23",
@@ -12182,8 +12368,8 @@
       "id": "c55a95c2-e956-4787-a9be-6f362898cf99",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:36:58.140Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:43:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-003",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -12203,7 +12389,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-003",
-          "recordedAt": "2026-06-24T07:36:58.140Z",
+          "recordedAt": "2026-06-24T07:43:58.220Z",
           "kind": "audit",
           "actor": "user-charlie",
           "sourceIp": "198.51.100.22",
@@ -12226,8 +12412,8 @@
       "id": "789d1904-3f5b-45cb-9036-c471e39d773d",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:35:58.140Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:42:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-002",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -12247,7 +12433,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-002",
-          "recordedAt": "2026-06-24T07:35:58.140Z",
+          "recordedAt": "2026-06-24T07:42:58.220Z",
           "kind": "audit",
           "actor": "user-bob",
           "sourceIp": "198.51.100.21",
@@ -12270,8 +12456,8 @@
       "id": "f2e71554-ccef-4076-b0ee-817dde740eae",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:34:58.140Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:41:58.220Z",
+      "occurrences": 143,
       "fingerprint": "forbidden-sensitive-access:audit-secret-001",
       "ruleId": "forbidden-sensitive-access",
       "severity": "high",
@@ -12291,7 +12477,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-secret-001",
-          "recordedAt": "2026-06-24T07:34:58.140Z",
+          "recordedAt": "2026-06-24T07:41:58.220Z",
           "kind": "audit",
           "actor": "user-alice",
           "sourceIp": "198.51.100.20",
@@ -14976,8 +15162,8 @@
       "id": "19029bb6-56af-4213-b71b-b92fab5271b7",
       "status": "open",
       "createdAt": "2026-06-23T06:23:27.433Z",
-      "lastSeenAt": "2026-06-24T08:27:58.141Z",
-      "occurrences": 391,
+      "lastSeenAt": "2026-06-24T08:34:58.220Z",
+      "occurrences": 398,
       "fingerprint": "unusual-country:user-alice:RU:auth-004",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -14997,7 +15183,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-004",
-          "recordedAt": "2026-06-24T08:27:58.141Z",
+          "recordedAt": "2026-06-24T08:34:58.220Z",
           "kind": "authentication",
           "actor": "alice@example.com",
           "sourceIp": "203.0.113.77",
@@ -15019,8 +15205,8 @@
       "id": "fe89c3ec-f81b-440d-aa27-0a458513b433",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:26:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:33:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-ivan:NG:auth-unusual-040",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15040,7 +15226,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-040",
-          "recordedAt": "2026-06-24T08:26:58.141Z",
+          "recordedAt": "2026-06-24T08:33:58.221Z",
           "kind": "authentication",
           "actor": "ivan@example.com",
           "sourceIp": "203.0.113.129",
@@ -15062,8 +15248,8 @@
       "id": "ea8f6032-62a7-43dd-b17d-afc70e3a672c",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:25:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:32:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-hana:MX:auth-unusual-039",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15083,7 +15269,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-039",
-          "recordedAt": "2026-06-24T08:25:58.141Z",
+          "recordedAt": "2026-06-24T08:32:58.221Z",
           "kind": "authentication",
           "actor": "hana@example.com",
           "sourceIp": "203.0.113.128",
@@ -15105,8 +15291,8 @@
       "id": "40e3da02-88a2-4191-a2be-09775f3676c3",
       "status": "open",
       "createdAt": "2026-06-23T06:23:27.433Z",
-      "lastSeenAt": "2026-06-24T08:25:58.140Z",
-      "occurrences": 391,
+      "lastSeenAt": "2026-06-24T08:32:58.220Z",
+      "occurrences": 398,
       "fingerprint": "credential-change:audit-003",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15126,7 +15312,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-003",
-          "recordedAt": "2026-06-24T08:25:58.140Z",
+          "recordedAt": "2026-06-24T08:32:58.220Z",
           "kind": "audit",
           "actor": "user-ci-bot",
           "sourceIp": "192.0.2.25",
@@ -15149,8 +15335,8 @@
       "id": "a63af40a-6c57-419a-9cb1-7a0ec5c9cf03",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:24:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:31:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-gaurav:KR:auth-unusual-038",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15170,7 +15356,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-038",
-          "recordedAt": "2026-06-24T08:24:58.141Z",
+          "recordedAt": "2026-06-24T08:31:58.221Z",
           "kind": "authentication",
           "actor": "gaurav@example.com",
           "sourceIp": "203.0.113.127",
@@ -15192,8 +15378,8 @@
       "id": "e74a349c-d67b-4748-9880-1a7c38ea8fcb",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:23:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:30:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-fatima:JP:auth-unusual-037",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15213,7 +15399,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-037",
-          "recordedAt": "2026-06-24T08:23:58.141Z",
+          "recordedAt": "2026-06-24T08:30:58.221Z",
           "kind": "authentication",
           "actor": "fatima@example.com",
           "sourceIp": "203.0.113.126",
@@ -15235,8 +15421,8 @@
       "id": "3577020f-a38d-42b2-91dc-3e70b48cd4dd",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:22:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:29:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-erik:AE:auth-unusual-036",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15256,7 +15442,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-036",
-          "recordedAt": "2026-06-24T08:22:58.141Z",
+          "recordedAt": "2026-06-24T08:29:58.221Z",
           "kind": "authentication",
           "actor": "erik@example.com",
           "sourceIp": "203.0.113.125",
@@ -15278,8 +15464,8 @@
       "id": "d965ddcd-efba-4d1a-a106-79c28a9cf98c",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:21:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:28:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-dina:ZA:auth-unusual-035",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15299,7 +15485,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-035",
-          "recordedAt": "2026-06-24T08:21:58.141Z",
+          "recordedAt": "2026-06-24T08:28:58.221Z",
           "kind": "authentication",
           "actor": "dina@example.com",
           "sourceIp": "203.0.113.124",
@@ -15321,8 +15507,8 @@
       "id": "f639fcbf-d065-4c0c-ad81-6fb52716e7f7",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:21:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:28:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-045",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15342,7 +15528,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-045",
-          "recordedAt": "2026-06-24T08:21:58.141Z",
+          "recordedAt": "2026-06-24T08:28:58.220Z",
           "kind": "audit",
           "actor": "user-lina",
           "sourceIp": "203.0.113.74",
@@ -15365,8 +15551,8 @@
       "id": "7df4780e-855a-4f04-bc67-9a1e939a074c",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:20:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:27:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-charlie:US:auth-unusual-034",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15386,7 +15572,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-034",
-          "recordedAt": "2026-06-24T08:20:58.141Z",
+          "recordedAt": "2026-06-24T08:27:58.221Z",
           "kind": "authentication",
           "actor": "charlie@example.com",
           "sourceIp": "203.0.113.123",
@@ -15408,8 +15594,8 @@
       "id": "6770bb03-4653-43dd-8fca-423292b09407",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:20:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:27:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-044",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15429,7 +15615,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-044",
-          "recordedAt": "2026-06-24T08:20:58.141Z",
+          "recordedAt": "2026-06-24T08:27:58.220Z",
           "kind": "audit",
           "actor": "user-kiran",
           "sourceIp": "203.0.113.73",
@@ -15452,8 +15638,8 @@
       "id": "e2eea572-3af7-4d77-a0db-083c58ceba4b",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:19:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:26:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-bob:BR:auth-unusual-033",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15473,7 +15659,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-033",
-          "recordedAt": "2026-06-24T08:19:58.141Z",
+          "recordedAt": "2026-06-24T08:26:58.221Z",
           "kind": "authentication",
           "actor": "bob@example.com",
           "sourceIp": "203.0.113.122",
@@ -15495,8 +15681,8 @@
       "id": "a2185943-d5aa-4e06-baba-8b878ab3ab30",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:19:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:26:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-043",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15516,7 +15702,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-043",
-          "recordedAt": "2026-06-24T08:19:58.141Z",
+          "recordedAt": "2026-06-24T08:26:58.220Z",
           "kind": "audit",
           "actor": "user-julia",
           "sourceIp": "203.0.113.72",
@@ -15539,8 +15725,8 @@
       "id": "9898f5b2-0cc5-4e87-9253-9b65e074dec2",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:18:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:25:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-alice:CN:auth-unusual-032",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15560,7 +15746,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-032",
-          "recordedAt": "2026-06-24T08:18:58.141Z",
+          "recordedAt": "2026-06-24T08:25:58.221Z",
           "kind": "authentication",
           "actor": "alice@example.com",
           "sourceIp": "203.0.113.121",
@@ -15582,8 +15768,8 @@
       "id": "18cf3ca4-4cad-454f-94d3-ce3e89b5487f",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:18:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:25:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-042",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15603,7 +15789,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-042",
-          "recordedAt": "2026-06-24T08:18:58.141Z",
+          "recordedAt": "2026-06-24T08:25:58.220Z",
           "kind": "audit",
           "actor": "user-ivan",
           "sourceIp": "203.0.113.71",
@@ -15626,8 +15812,8 @@
       "id": "24e12e32-62c5-4bab-af34-5b3e1d52f870",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:17:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:24:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-lina:RU:auth-unusual-031",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15647,7 +15833,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-031",
-          "recordedAt": "2026-06-24T08:17:58.141Z",
+          "recordedAt": "2026-06-24T08:24:58.221Z",
           "kind": "authentication",
           "actor": "lina@example.com",
           "sourceIp": "203.0.113.120",
@@ -15669,8 +15855,8 @@
       "id": "813eddfe-c072-43c0-930e-37f3dce5ddb6",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:17:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:24:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-041",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15690,7 +15876,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-041",
-          "recordedAt": "2026-06-24T08:17:58.141Z",
+          "recordedAt": "2026-06-24T08:24:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "203.0.113.70",
@@ -15713,8 +15899,8 @@
       "id": "44fa8476-e33c-4d69-b61a-875d68b3fa20",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:16:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:23:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-kiran:NG:auth-unusual-030",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15734,7 +15920,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-030",
-          "recordedAt": "2026-06-24T08:16:58.141Z",
+          "recordedAt": "2026-06-24T08:23:58.221Z",
           "kind": "authentication",
           "actor": "kiran@example.com",
           "sourceIp": "203.0.113.119",
@@ -15756,8 +15942,8 @@
       "id": "5bcf5244-6cd2-4ccf-8150-721d6474d7a7",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:16:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:23:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-040",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15777,7 +15963,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-040",
-          "recordedAt": "2026-06-24T08:16:58.141Z",
+          "recordedAt": "2026-06-24T08:23:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "203.0.113.69",
@@ -15800,8 +15986,8 @@
       "id": "1c0f83fd-b064-42c0-abb3-7190c0323691",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:15:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:22:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-julia:MX:auth-unusual-029",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15821,7 +16007,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-029",
-          "recordedAt": "2026-06-24T08:15:58.141Z",
+          "recordedAt": "2026-06-24T08:22:58.221Z",
           "kind": "authentication",
           "actor": "julia@example.com",
           "sourceIp": "203.0.113.118",
@@ -15843,8 +16029,8 @@
       "id": "175be923-f0e6-41d9-a584-2cc3e723c61d",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:15:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:22:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-039",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15864,7 +16050,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-039",
-          "recordedAt": "2026-06-24T08:15:58.141Z",
+          "recordedAt": "2026-06-24T08:22:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "203.0.113.68",
@@ -15887,8 +16073,8 @@
       "id": "3730e29d-1a39-4883-9e1b-d5b97d7ac61e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:14:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:21:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-ivan:KR:auth-unusual-028",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15908,7 +16094,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-028",
-          "recordedAt": "2026-06-24T08:14:58.141Z",
+          "recordedAt": "2026-06-24T08:21:58.221Z",
           "kind": "authentication",
           "actor": "ivan@example.com",
           "sourceIp": "203.0.113.117",
@@ -15930,8 +16116,8 @@
       "id": "f0cadb12-e6d1-40a8-a844-bdd1eb97ca49",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:14:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:21:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-038",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -15951,7 +16137,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-038",
-          "recordedAt": "2026-06-24T08:14:58.141Z",
+          "recordedAt": "2026-06-24T08:21:58.220Z",
           "kind": "audit",
           "actor": "user-erik",
           "sourceIp": "203.0.113.67",
@@ -15974,8 +16160,8 @@
       "id": "366d3e03-47a6-4ef7-8cb6-e59452fa069b",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:13:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:20:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-hana:JP:auth-unusual-027",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -15995,7 +16181,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-027",
-          "recordedAt": "2026-06-24T08:13:58.141Z",
+          "recordedAt": "2026-06-24T08:20:58.221Z",
           "kind": "authentication",
           "actor": "hana@example.com",
           "sourceIp": "203.0.113.116",
@@ -16017,8 +16203,8 @@
       "id": "995ce855-24f9-42af-9de4-dd42d69181d8",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:13:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:20:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-037",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16038,7 +16224,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-037",
-          "recordedAt": "2026-06-24T08:13:58.141Z",
+          "recordedAt": "2026-06-24T08:20:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "203.0.113.66",
@@ -16061,8 +16247,8 @@
       "id": "bfff86e2-e325-4ee7-9071-a52ebc776273",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:12:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:19:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-gaurav:AE:auth-unusual-026",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16082,7 +16268,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-026",
-          "recordedAt": "2026-06-24T08:12:58.141Z",
+          "recordedAt": "2026-06-24T08:19:58.221Z",
           "kind": "authentication",
           "actor": "gaurav@example.com",
           "sourceIp": "203.0.113.115",
@@ -16104,8 +16290,8 @@
       "id": "3dcf03bf-be15-4351-aad5-888e37313c99",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:12:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:19:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-036",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16125,7 +16311,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-036",
-          "recordedAt": "2026-06-24T08:12:58.141Z",
+          "recordedAt": "2026-06-24T08:19:58.220Z",
           "kind": "audit",
           "actor": "user-charlie",
           "sourceIp": "203.0.113.65",
@@ -16148,8 +16334,8 @@
       "id": "59171cdf-fe51-4c0d-9a6c-9ce4993c957f",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:11:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:18:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-fatima:ZA:auth-unusual-025",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16169,7 +16355,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-025",
-          "recordedAt": "2026-06-24T08:11:58.141Z",
+          "recordedAt": "2026-06-24T08:18:58.221Z",
           "kind": "authentication",
           "actor": "fatima@example.com",
           "sourceIp": "203.0.113.114",
@@ -16191,8 +16377,8 @@
       "id": "c1c297b3-a8bb-423f-8f35-17e8cbf284a1",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:11:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:18:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-035",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16212,7 +16398,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-035",
-          "recordedAt": "2026-06-24T08:11:58.141Z",
+          "recordedAt": "2026-06-24T08:18:58.220Z",
           "kind": "audit",
           "actor": "user-bob",
           "sourceIp": "203.0.113.64",
@@ -16235,8 +16421,8 @@
       "id": "c593a419-0b6c-4170-86bf-07b4d65562d3",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:10:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:17:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-erik:US:auth-unusual-024",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16256,7 +16442,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-024",
-          "recordedAt": "2026-06-24T08:10:58.141Z",
+          "recordedAt": "2026-06-24T08:17:58.221Z",
           "kind": "authentication",
           "actor": "erik@example.com",
           "sourceIp": "203.0.113.113",
@@ -16278,8 +16464,8 @@
       "id": "d4a1f662-14f3-431f-8bab-8d7a15301297",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:10:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:17:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-034",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16299,7 +16485,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-034",
-          "recordedAt": "2026-06-24T08:10:58.141Z",
+          "recordedAt": "2026-06-24T08:17:58.220Z",
           "kind": "audit",
           "actor": "user-alice",
           "sourceIp": "203.0.113.63",
@@ -16322,8 +16508,8 @@
       "id": "00d6dc37-3793-4ebb-a82c-2e3206443344",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:09:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:16:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-dina:BR:auth-unusual-023",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16343,7 +16529,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-023",
-          "recordedAt": "2026-06-24T08:09:58.141Z",
+          "recordedAt": "2026-06-24T08:16:58.221Z",
           "kind": "authentication",
           "actor": "dina@example.com",
           "sourceIp": "203.0.113.112",
@@ -16365,8 +16551,8 @@
       "id": "5b3f0e37-a4c5-4a84-ba13-3e69cbca34dd",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:09:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:16:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-033",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16386,7 +16572,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-033",
-          "recordedAt": "2026-06-24T08:09:58.141Z",
+          "recordedAt": "2026-06-24T08:16:58.220Z",
           "kind": "audit",
           "actor": "user-lina",
           "sourceIp": "203.0.113.62",
@@ -16409,8 +16595,8 @@
       "id": "06e7d5a9-dccc-46d0-bb32-3c452cb6cdde",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:08:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:15:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-charlie:CN:auth-unusual-022",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16430,7 +16616,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-022",
-          "recordedAt": "2026-06-24T08:08:58.141Z",
+          "recordedAt": "2026-06-24T08:15:58.221Z",
           "kind": "authentication",
           "actor": "charlie@example.com",
           "sourceIp": "203.0.113.111",
@@ -16452,8 +16638,8 @@
       "id": "e5ff7f57-63cd-4ac4-a7fb-f25ff5380628",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:08:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:15:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-032",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16473,7 +16659,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-032",
-          "recordedAt": "2026-06-24T08:08:58.141Z",
+          "recordedAt": "2026-06-24T08:15:58.220Z",
           "kind": "audit",
           "actor": "user-kiran",
           "sourceIp": "203.0.113.61",
@@ -16496,8 +16682,8 @@
       "id": "6d5119fd-5a71-406b-9256-1a7d49ca8bab",
       "status": "open",
       "createdAt": "2026-06-23T06:23:27.433Z",
-      "lastSeenAt": "2026-06-24T08:08:58.140Z",
-      "occurrences": 391,
+      "lastSeenAt": "2026-06-24T08:15:58.220Z",
+      "occurrences": 398,
       "fingerprint": "credential-change:audit-001",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16517,7 +16703,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-001",
-          "recordedAt": "2026-06-24T08:08:58.140Z",
+          "recordedAt": "2026-06-24T08:15:58.220Z",
           "kind": "audit",
           "actor": "user-alice",
           "sourceIp": "203.0.113.14",
@@ -16540,8 +16726,8 @@
       "id": "ae885f5c-ab0d-4b6b-a115-1ef0dbf1a5cc",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:07:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:14:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-bob:RU:auth-unusual-021",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16561,7 +16747,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-021",
-          "recordedAt": "2026-06-24T08:07:58.141Z",
+          "recordedAt": "2026-06-24T08:14:58.221Z",
           "kind": "authentication",
           "actor": "bob@example.com",
           "sourceIp": "203.0.113.110",
@@ -16583,8 +16769,8 @@
       "id": "ec51bda6-3194-4612-b22f-6da732fdb1a2",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:07:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:14:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-031",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16604,7 +16790,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-031",
-          "recordedAt": "2026-06-24T08:07:58.141Z",
+          "recordedAt": "2026-06-24T08:14:58.220Z",
           "kind": "audit",
           "actor": "user-julia",
           "sourceIp": "203.0.113.60",
@@ -16627,8 +16813,8 @@
       "id": "c469c358-7f17-4b42-b3f2-9604cfd5a012",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:06:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:13:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-alice:NG:auth-unusual-020",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16648,7 +16834,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-020",
-          "recordedAt": "2026-06-24T08:06:58.141Z",
+          "recordedAt": "2026-06-24T08:13:58.221Z",
           "kind": "authentication",
           "actor": "alice@example.com",
           "sourceIp": "203.0.113.109",
@@ -16670,8 +16856,8 @@
       "id": "094a01c9-dde6-448b-8117-302cb1114841",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:06:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:13:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-030",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16691,7 +16877,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-030",
-          "recordedAt": "2026-06-24T08:06:58.141Z",
+          "recordedAt": "2026-06-24T08:13:58.220Z",
           "kind": "audit",
           "actor": "user-ivan",
           "sourceIp": "203.0.113.59",
@@ -16714,8 +16900,8 @@
       "id": "d09cc352-d747-4bfe-b252-ab7e11edcb28",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:05:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:12:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-lina:MX:auth-unusual-019",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16735,7 +16921,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-019",
-          "recordedAt": "2026-06-24T08:05:58.141Z",
+          "recordedAt": "2026-06-24T08:12:58.221Z",
           "kind": "authentication",
           "actor": "lina@example.com",
           "sourceIp": "203.0.113.108",
@@ -16757,8 +16943,8 @@
       "id": "8a752a93-952a-41a8-a4dd-422d93874de4",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:05:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:12:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-029",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16778,7 +16964,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-029",
-          "recordedAt": "2026-06-24T08:05:58.141Z",
+          "recordedAt": "2026-06-24T08:12:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "203.0.113.58",
@@ -16801,8 +16987,8 @@
       "id": "a3e43b99-e3ee-4121-9f24-6b37bb32a1f1",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:04:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:11:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-kiran:KR:auth-unusual-018",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16822,7 +17008,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-018",
-          "recordedAt": "2026-06-24T08:04:58.141Z",
+          "recordedAt": "2026-06-24T08:11:58.221Z",
           "kind": "authentication",
           "actor": "kiran@example.com",
           "sourceIp": "203.0.113.107",
@@ -16844,8 +17030,8 @@
       "id": "091a0415-7f9a-479c-b64c-514897b76f3f",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:04:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:11:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-028",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16865,7 +17051,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-028",
-          "recordedAt": "2026-06-24T08:04:58.141Z",
+          "recordedAt": "2026-06-24T08:11:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "203.0.113.57",
@@ -16888,8 +17074,8 @@
       "id": "1e3dfa47-dedb-44b6-bc7a-32d52af4029f",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:03:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:10:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-julia:JP:auth-unusual-017",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16909,7 +17095,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-017",
-          "recordedAt": "2026-06-24T08:03:58.141Z",
+          "recordedAt": "2026-06-24T08:10:58.221Z",
           "kind": "authentication",
           "actor": "julia@example.com",
           "sourceIp": "203.0.113.106",
@@ -16931,8 +17117,8 @@
       "id": "502bdeb4-b057-4c4a-b49d-8c602f6b72bf",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:03:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:10:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-027",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -16952,7 +17138,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-027",
-          "recordedAt": "2026-06-24T08:03:58.141Z",
+          "recordedAt": "2026-06-24T08:10:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "203.0.113.56",
@@ -16975,8 +17161,8 @@
       "id": "008d78b1-769c-416a-9f12-ceee7d3607c3",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:02:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:09:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-ivan:AE:auth-unusual-016",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -16996,7 +17182,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-016",
-          "recordedAt": "2026-06-24T08:02:58.141Z",
+          "recordedAt": "2026-06-24T08:09:58.221Z",
           "kind": "authentication",
           "actor": "ivan@example.com",
           "sourceIp": "203.0.113.105",
@@ -17018,8 +17204,8 @@
       "id": "68387bae-7559-4249-80f7-8ca5bde61c16",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:02:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:09:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-026",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17039,7 +17225,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-026",
-          "recordedAt": "2026-06-24T08:02:58.141Z",
+          "recordedAt": "2026-06-24T08:09:58.220Z",
           "kind": "audit",
           "actor": "user-erik",
           "sourceIp": "203.0.113.55",
@@ -17062,8 +17248,8 @@
       "id": "02fbb8c7-1769-4a37-b783-fa6066129964",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:01:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:08:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-hana:ZA:auth-unusual-015",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17083,7 +17269,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-015",
-          "recordedAt": "2026-06-24T08:01:58.141Z",
+          "recordedAt": "2026-06-24T08:08:58.221Z",
           "kind": "authentication",
           "actor": "hana@example.com",
           "sourceIp": "203.0.113.104",
@@ -17105,8 +17291,8 @@
       "id": "2fcfb72d-4d8b-4af0-8cda-6f33f8b7cb24",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:01:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:08:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-025",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17126,7 +17312,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-025",
-          "recordedAt": "2026-06-24T08:01:58.141Z",
+          "recordedAt": "2026-06-24T08:08:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "203.0.113.54",
@@ -17149,8 +17335,8 @@
       "id": "57266e17-7626-40f9-aa48-1712e204dd9e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T08:00:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:07:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-gaurav:US:auth-unusual-014",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17170,7 +17356,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-014",
-          "recordedAt": "2026-06-24T08:00:58.141Z",
+          "recordedAt": "2026-06-24T08:07:58.221Z",
           "kind": "authentication",
           "actor": "gaurav@example.com",
           "sourceIp": "203.0.113.103",
@@ -17192,8 +17378,8 @@
       "id": "4ce6dcc1-9777-4630-8c9f-bc61c48b4590",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T08:00:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:07:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-024",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17213,7 +17399,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-024",
-          "recordedAt": "2026-06-24T08:00:58.141Z",
+          "recordedAt": "2026-06-24T08:07:58.220Z",
           "kind": "audit",
           "actor": "user-charlie",
           "sourceIp": "203.0.113.53",
@@ -17236,8 +17422,8 @@
       "id": "2df96cda-e468-4cc2-afff-eb7d495c9ff2",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:59:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:06:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-fatima:BR:auth-unusual-013",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17257,7 +17443,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-013",
-          "recordedAt": "2026-06-24T07:59:58.141Z",
+          "recordedAt": "2026-06-24T08:06:58.221Z",
           "kind": "authentication",
           "actor": "fatima@example.com",
           "sourceIp": "203.0.113.102",
@@ -17279,8 +17465,8 @@
       "id": "53ec9137-db94-4b44-bfb7-40850d5c2a78",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:59:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:06:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-023",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17300,7 +17486,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-023",
-          "recordedAt": "2026-06-24T07:59:58.141Z",
+          "recordedAt": "2026-06-24T08:06:58.220Z",
           "kind": "audit",
           "actor": "user-bob",
           "sourceIp": "203.0.113.52",
@@ -17323,8 +17509,8 @@
       "id": "5240d643-d24d-49ba-93dd-0f08396c144f",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:58:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:05:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-erik:CN:auth-unusual-012",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17344,7 +17530,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-012",
-          "recordedAt": "2026-06-24T07:58:58.141Z",
+          "recordedAt": "2026-06-24T08:05:58.221Z",
           "kind": "authentication",
           "actor": "erik@example.com",
           "sourceIp": "203.0.113.101",
@@ -17366,8 +17552,8 @@
       "id": "07ece54d-8b26-42a8-b696-1aa660af2b6b",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:58:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:05:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-022",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17387,7 +17573,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-022",
-          "recordedAt": "2026-06-24T07:58:58.141Z",
+          "recordedAt": "2026-06-24T08:05:58.220Z",
           "kind": "audit",
           "actor": "user-alice",
           "sourceIp": "203.0.113.51",
@@ -17410,8 +17596,8 @@
       "id": "c0eb69a1-297a-448c-8dc9-811e02850ed2",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:57:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:04:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-dina:RU:auth-unusual-011",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17431,7 +17617,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-011",
-          "recordedAt": "2026-06-24T07:57:58.141Z",
+          "recordedAt": "2026-06-24T08:04:58.221Z",
           "kind": "authentication",
           "actor": "dina@example.com",
           "sourceIp": "203.0.113.100",
@@ -17453,8 +17639,8 @@
       "id": "c708dd43-1d9a-4a5d-a2a2-10b6b776bba3",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:57:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:04:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-021",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17474,7 +17660,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-021",
-          "recordedAt": "2026-06-24T07:57:58.141Z",
+          "recordedAt": "2026-06-24T08:04:58.220Z",
           "kind": "audit",
           "actor": "user-lina",
           "sourceIp": "203.0.113.50",
@@ -17497,8 +17683,8 @@
       "id": "c3a0a8eb-a3f2-4365-8b60-0abc0c4ff2d3",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:56:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:03:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-charlie:NG:auth-unusual-010",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17518,7 +17704,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-010",
-          "recordedAt": "2026-06-24T07:56:58.141Z",
+          "recordedAt": "2026-06-24T08:03:58.221Z",
           "kind": "authentication",
           "actor": "charlie@example.com",
           "sourceIp": "203.0.113.99",
@@ -17540,8 +17726,8 @@
       "id": "91c564cf-a32c-4a49-b2be-e13d9cc48a54",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:56:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:03:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-020",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17561,7 +17747,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-020",
-          "recordedAt": "2026-06-24T07:56:58.141Z",
+          "recordedAt": "2026-06-24T08:03:58.220Z",
           "kind": "audit",
           "actor": "user-kiran",
           "sourceIp": "203.0.113.49",
@@ -17584,8 +17770,8 @@
       "id": "8fdec1c8-4ee8-4bcd-af3f-252f9e4b1699",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:55:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:02:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-bob:MX:auth-unusual-009",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17605,7 +17791,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-009",
-          "recordedAt": "2026-06-24T07:55:58.141Z",
+          "recordedAt": "2026-06-24T08:02:58.221Z",
           "kind": "authentication",
           "actor": "bob@example.com",
           "sourceIp": "203.0.113.98",
@@ -17627,8 +17813,8 @@
       "id": "e98e2711-156a-4714-b682-d7257041da05",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:55:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:02:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-019",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17648,7 +17834,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-019",
-          "recordedAt": "2026-06-24T07:55:58.141Z",
+          "recordedAt": "2026-06-24T08:02:58.220Z",
           "kind": "audit",
           "actor": "user-julia",
           "sourceIp": "203.0.113.48",
@@ -17671,8 +17857,8 @@
       "id": "e985f693-219d-40df-b124-1d25ccfbe6b7",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:54:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:01:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-alice:KR:auth-unusual-008",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17692,7 +17878,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-008",
-          "recordedAt": "2026-06-24T07:54:58.141Z",
+          "recordedAt": "2026-06-24T08:01:58.221Z",
           "kind": "authentication",
           "actor": "alice@example.com",
           "sourceIp": "203.0.113.97",
@@ -17714,8 +17900,8 @@
       "id": "a4eb3478-52fe-499d-8c85-c84fcc2b10fc",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:54:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:01:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-018",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17735,7 +17921,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-018",
-          "recordedAt": "2026-06-24T07:54:58.141Z",
+          "recordedAt": "2026-06-24T08:01:58.220Z",
           "kind": "audit",
           "actor": "user-ivan",
           "sourceIp": "203.0.113.47",
@@ -17758,8 +17944,8 @@
       "id": "53cfd342-15f6-4e0a-adbe-33b2f9056ba3",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:53:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:00:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-lina:JP:auth-unusual-007",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17779,7 +17965,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-007",
-          "recordedAt": "2026-06-24T07:53:58.141Z",
+          "recordedAt": "2026-06-24T08:00:58.221Z",
           "kind": "authentication",
           "actor": "lina@example.com",
           "sourceIp": "203.0.113.96",
@@ -17801,8 +17987,8 @@
       "id": "3e385727-9924-4fd6-8ea8-e9f604811d65",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:53:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T08:00:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-017",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17822,7 +18008,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-017",
-          "recordedAt": "2026-06-24T07:53:58.141Z",
+          "recordedAt": "2026-06-24T08:00:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "203.0.113.46",
@@ -17845,8 +18031,8 @@
       "id": "9e9ae916-8e7c-46a7-a757-768558ea5b1e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:52:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:59:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-kiran:AE:auth-unusual-006",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17866,7 +18052,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-006",
-          "recordedAt": "2026-06-24T07:52:58.141Z",
+          "recordedAt": "2026-06-24T07:59:58.221Z",
           "kind": "authentication",
           "actor": "kiran@example.com",
           "sourceIp": "203.0.113.95",
@@ -17888,8 +18074,8 @@
       "id": "e5f5642b-5589-43da-bfef-d03f9612a508",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:52:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:59:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-016",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17909,7 +18095,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-016",
-          "recordedAt": "2026-06-24T07:52:58.141Z",
+          "recordedAt": "2026-06-24T07:59:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "203.0.113.45",
@@ -17932,8 +18118,8 @@
       "id": "e1aa50eb-0d13-4c1d-aed3-e7297b5a6851",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:51:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:58:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-julia:ZA:auth-unusual-005",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -17953,7 +18139,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-005",
-          "recordedAt": "2026-06-24T07:51:58.141Z",
+          "recordedAt": "2026-06-24T07:58:58.221Z",
           "kind": "authentication",
           "actor": "julia@example.com",
           "sourceIp": "203.0.113.94",
@@ -17975,8 +18161,8 @@
       "id": "56dfeead-255a-4bba-86f7-3c7efdcc60bb",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:51:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:58:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-015",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -17996,7 +18182,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-015",
-          "recordedAt": "2026-06-24T07:51:58.141Z",
+          "recordedAt": "2026-06-24T07:58:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "203.0.113.44",
@@ -18019,8 +18205,8 @@
       "id": "82bca3bd-2398-4c07-9e1d-b59771557b93",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:50:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:57:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-ivan:US:auth-unusual-004",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -18040,7 +18226,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-004",
-          "recordedAt": "2026-06-24T07:50:58.141Z",
+          "recordedAt": "2026-06-24T07:57:58.221Z",
           "kind": "authentication",
           "actor": "ivan@example.com",
           "sourceIp": "203.0.113.93",
@@ -18062,8 +18248,8 @@
       "id": "920da8c1-1066-4167-a9b7-c839ebe8a935",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:50:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:57:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-014",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18083,7 +18269,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-014",
-          "recordedAt": "2026-06-24T07:50:58.141Z",
+          "recordedAt": "2026-06-24T07:57:58.220Z",
           "kind": "audit",
           "actor": "user-erik",
           "sourceIp": "203.0.113.43",
@@ -18106,8 +18292,8 @@
       "id": "b4f7f4aa-d290-4535-a2e5-6f7be0b45eb7",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:49:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:56:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-hana:BR:auth-unusual-003",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -18127,7 +18313,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-003",
-          "recordedAt": "2026-06-24T07:49:58.141Z",
+          "recordedAt": "2026-06-24T07:56:58.221Z",
           "kind": "authentication",
           "actor": "hana@example.com",
           "sourceIp": "203.0.113.92",
@@ -18149,8 +18335,8 @@
       "id": "43456805-303d-4044-a3c2-393b681d42c8",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:49:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:56:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-013",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18170,7 +18356,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-013",
-          "recordedAt": "2026-06-24T07:49:58.141Z",
+          "recordedAt": "2026-06-24T07:56:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "203.0.113.42",
@@ -18193,8 +18379,8 @@
       "id": "9d45cd41-c910-4586-849b-0924e1a680e1",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:48:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:55:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-gaurav:CN:auth-unusual-002",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -18214,7 +18400,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-002",
-          "recordedAt": "2026-06-24T07:48:58.141Z",
+          "recordedAt": "2026-06-24T07:55:58.221Z",
           "kind": "authentication",
           "actor": "gaurav@example.com",
           "sourceIp": "203.0.113.91",
@@ -18236,8 +18422,8 @@
       "id": "d2817d59-a790-47f8-89c4-8782a37da043",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:48:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:55:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-012",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18257,7 +18443,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-012",
-          "recordedAt": "2026-06-24T07:48:58.141Z",
+          "recordedAt": "2026-06-24T07:55:58.220Z",
           "kind": "audit",
           "actor": "user-charlie",
           "sourceIp": "203.0.113.41",
@@ -18280,8 +18466,8 @@
       "id": "8caed0da-2346-4cac-bd23-1a6ab8c4387f",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.589Z",
-      "lastSeenAt": "2026-06-24T07:47:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:54:58.221Z",
+      "occurrences": 143,
       "fingerprint": "unusual-country:user-fatima:RU:auth-unusual-001",
       "ruleId": "unusual-country",
       "severity": "medium",
@@ -18301,7 +18487,7 @@
       "evidence": [
         {
           "eventId": "auth:auth-unusual-001",
-          "recordedAt": "2026-06-24T07:47:58.141Z",
+          "recordedAt": "2026-06-24T07:54:58.221Z",
           "kind": "authentication",
           "actor": "fatima@example.com",
           "sourceIp": "203.0.113.90",
@@ -18323,8 +18509,8 @@
       "id": "de85e353-ec16-48c6-9028-10a26d48d460",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:47:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:54:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-011",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18344,7 +18530,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-011",
-          "recordedAt": "2026-06-24T07:47:58.141Z",
+          "recordedAt": "2026-06-24T07:54:58.220Z",
           "kind": "audit",
           "actor": "user-bob",
           "sourceIp": "203.0.113.40",
@@ -18367,8 +18553,8 @@
       "id": "315c9261-1151-4e58-84fe-f56d790d708e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:46:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:53:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-010",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18388,7 +18574,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-010",
-          "recordedAt": "2026-06-24T07:46:58.141Z",
+          "recordedAt": "2026-06-24T07:53:58.220Z",
           "kind": "audit",
           "actor": "user-alice",
           "sourceIp": "203.0.113.39",
@@ -18411,8 +18597,8 @@
       "id": "d6a42432-3c1f-4767-b0a4-ae3233a09cbc",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:45:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:52:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-009",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18432,7 +18618,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-009",
-          "recordedAt": "2026-06-24T07:45:58.141Z",
+          "recordedAt": "2026-06-24T07:52:58.220Z",
           "kind": "audit",
           "actor": "user-lina",
           "sourceIp": "203.0.113.38",
@@ -18455,8 +18641,8 @@
       "id": "314252ec-cbce-41ef-9c4e-ea8d1eca0665",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:44:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:51:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-008",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18476,7 +18662,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-008",
-          "recordedAt": "2026-06-24T07:44:58.141Z",
+          "recordedAt": "2026-06-24T07:51:58.220Z",
           "kind": "audit",
           "actor": "user-kiran",
           "sourceIp": "203.0.113.37",
@@ -18499,8 +18685,8 @@
       "id": "bdfec62e-9633-4ac5-af18-02f14d70f277",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:43:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:50:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-007",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18520,7 +18706,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-007",
-          "recordedAt": "2026-06-24T07:43:58.141Z",
+          "recordedAt": "2026-06-24T07:50:58.220Z",
           "kind": "audit",
           "actor": "user-julia",
           "sourceIp": "203.0.113.36",
@@ -18543,8 +18729,8 @@
       "id": "8c41f4f4-0a82-4543-9de3-c0f8163f20c9",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:42:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:49:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-006",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18564,7 +18750,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-006",
-          "recordedAt": "2026-06-24T07:42:58.141Z",
+          "recordedAt": "2026-06-24T07:49:58.220Z",
           "kind": "audit",
           "actor": "user-ivan",
           "sourceIp": "203.0.113.35",
@@ -18587,8 +18773,8 @@
       "id": "a3cd8d3d-5450-4bcf-8353-ed14d452dcbf",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:41:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:48:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-005",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18608,7 +18794,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-005",
-          "recordedAt": "2026-06-24T07:41:58.141Z",
+          "recordedAt": "2026-06-24T07:48:58.220Z",
           "kind": "audit",
           "actor": "user-hana",
           "sourceIp": "203.0.113.34",
@@ -18631,8 +18817,8 @@
       "id": "d81cd813-7867-40b3-90de-6a2aa5b75a17",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:40:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:47:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-004",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18652,7 +18838,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-004",
-          "recordedAt": "2026-06-24T07:40:58.141Z",
+          "recordedAt": "2026-06-24T07:47:58.220Z",
           "kind": "audit",
           "actor": "user-gaurav",
           "sourceIp": "203.0.113.33",
@@ -18675,8 +18861,8 @@
       "id": "d1f5aeba-e0ee-4d89-b5f1-52cd61880650",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:39:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:46:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-003",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18696,7 +18882,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-003",
-          "recordedAt": "2026-06-24T07:39:58.141Z",
+          "recordedAt": "2026-06-24T07:46:58.220Z",
           "kind": "audit",
           "actor": "user-fatima",
           "sourceIp": "203.0.113.32",
@@ -18719,8 +18905,8 @@
       "id": "81a83fb2-9f6d-48b7-b1e8-adeafef5329e",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:38:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:45:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-002",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18740,7 +18926,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-002",
-          "recordedAt": "2026-06-24T07:38:58.141Z",
+          "recordedAt": "2026-06-24T07:45:58.220Z",
           "kind": "audit",
           "actor": "user-erik",
           "sourceIp": "203.0.113.31",
@@ -18763,8 +18949,8 @@
       "id": "36830a2c-54dd-4d0b-8ce2-33fc0c6544df",
       "status": "open",
       "createdAt": "2026-06-23T10:33:15.590Z",
-      "lastSeenAt": "2026-06-24T07:37:58.141Z",
-      "occurrences": 136,
+      "lastSeenAt": "2026-06-24T07:44:58.220Z",
+      "occurrences": 143,
       "fingerprint": "credential-change:audit-credential-001",
       "ruleId": "credential-change",
       "severity": "medium",
@@ -18784,7 +18970,7 @@
       "evidence": [
         {
           "eventId": "audit:audit-credential-001",
-          "recordedAt": "2026-06-24T07:37:58.141Z",
+          "recordedAt": "2026-06-24T07:44:58.220Z",
           "kind": "audit",
           "actor": "user-dina",
           "sourceIp": "203.0.113.30",
