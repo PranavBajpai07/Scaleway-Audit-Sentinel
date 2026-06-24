@@ -1,0 +1,15 @@
+{
+  "name": "scaleway-audit-sentinel",
+  "version": "1.0.0",
+  "description": "Standalone Scaleway audit monitoring dashboard with rule-based detections and remediation actions.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "poll": "node src/cli/poll-once.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
