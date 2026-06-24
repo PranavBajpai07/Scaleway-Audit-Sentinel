@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Audit Sentinel logo">
+  <rect width="48" height="48" rx="8" fill="#10213f"/>
+  <path d="M24 8 37 13v9c0 8.4-5.2 14.1-13 18-7.8-3.9-13-9.6-13-18v-9l13-5Z" fill="#2dd4bf"/>
+  <path d="M18 24.2 22.1 28 31 18.5" fill="none" stroke="#10213f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

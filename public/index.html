@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Scaleway Audit Sentinel</title>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="brand">
+        <img src="/logo.svg" width="36" height="36" alt="">
+        <div>
+          <h1>Audit Sentinel</h1>
+          <p>Scaleway audit and authentication monitoring</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <label class="analyst-label" for="actorInput">Analyst</label>
+        <input id="actorInput" class="actor-input" value="local-analyst" autocomplete="off">
+        <button id="refreshButton" class="button secondary" type="button">Refresh</button>
+        <button id="pollButton" class="button primary" type="button">Run Scan</button>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section class="status-grid" aria-label="System status">
+        <div class="metric">
+          <span class="metric-label">Mode</span>
+          <strong id="modeMetric">...</strong>
+        </div>
+        <div class="metric">
+          <span class="metric-label">Open Alerts</span>
+          <strong id="openAlertsMetric">0</strong>
+        </div>
+        <div class="metric">
+          <span class="metric-label">Events Stored</span>
+          <strong id="eventsMetric">0</strong>
+        </div>
+        <div class="metric">
+          <span class="metric-label">Last Poll</span>
+          <strong id="lastPollMetric">Never</strong>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <section class="panel alerts-panel">
+          <div class="panel-header">
+            <div>
+              <h2>Alerts</h2>
+              <p id="statusLine">Loading dashboard data...</p>
+            </div>
+            <div class="filters">
+              <select id="statusFilter" aria-label="Status filter">
+                <option value="">All status</option>
+                <option value="open">Open</option>
+                <option value="remediated">Remediated</option>
+                <option value="dismissed">Dismissed</option>
+              </select>
+              <select id="severityFilter" aria-label="Severity filter">
+                <option value="">All severity</option>
+                <option value="critical">Critical</option>
+                <option value="high">High</option>
+                <option value="medium">Medium</option>
+                <option value="low">Low</option>
+              </select>
+              <select id="sortBySelect" aria-label="Sort alerts">
+                <option value="lastSeenAt">Newest seen</option>
+                <option value="severity">Severity</option>
+                <option value="createdAt">Created time</option>
+                <option value="status">Status</option>
+                <option value="ruleId">Rule</option>
+                <option value="actor">Actor</option>
+              </select>
+              <select id="pageSizeSelect" aria-label="Alerts per page">
+                <option value="10">10 / page</option>
+                <option value="25" selected>25 / page</option>
+                <option value="50">50 / page</option>
+                <option value="100">100 / page</option>
+              </select>
+            </div>
+          </div>
+
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Severity</th>
+                  <th>Rule</th>
+                  <th>Actor</th>
+                  <th>Source</th>
+                  <th>Status</th>
+                  <th>Seen</th>
+                </tr>
+              </thead>
+              <tbody id="alertsTableBody">
+                <tr>
+                  <td colspan="6" class="empty">No alerts loaded yet.</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+          <div class="pagination-bar" aria-label="Alert pagination">
+            <span id="paginationRange">Showing 0 of 0 alerts</span>
+            <div class="pagination-actions">
+              <button id="prevPageButton" class="button secondary" type="button">Previous</button>
+              <span id="pageSummary">Page 1 of 1</span>
+              <button id="nextPageButton" class="button secondary" type="button">Next</button>
+            </div>
+          </div>
+        </section>
+
+        <aside class="panel detail-panel">
+          <div class="panel-header">
+            <div>
+              <h2>Alert Details</h2>
+              <p id="selectedSubtitle">Select an alert to inspect evidence.</p>
+            </div>
+          </div>
+          <div id="detailContent" class="detail-empty">
+            No alert selected.
+          </div>
+        </aside>
+      </section>
+
+      <section class="lower-grid">
+        <section class="panel">
+          <div class="panel-header">
+            <div>
+              <h2>Recent Events</h2>
+              <p>Normalized Audit Trail and authentication records.</p>
+            </div>
+          </div>
+          <div id="eventsList" class="compact-list"></div>
+        </section>
+
+        <section class="panel">
+          <div class="panel-header">
+            <div>
+              <h2>Remediation Log</h2>
+              <p>Local audit record of analyst actions.</p>
+            </div>
+          </div>
+          <div id="remediationList" class="compact-list"></div>
+        </section>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>
