@@ -2,8 +2,6 @@
 
 Scaleway Audit Sentinel is a standalone monitoring dashboard for Scaleway Audit Trail and authentication activity. It periodically ingests events, applies detection rules, stores alerts locally, and lets an analyst lock or unlock IAM users from the UI.
 
-I chose this assignment over the Coda monitor because it has a tighter 2.5-hour scope: one event pipeline, one dashboard, clear rule design, and a concrete remediation workflow. The Coda problem has a much wider surface area across documents, tables, pages, exports, content scanning, and object-specific fixes.
-
 ## Features
 
 - Polls Scaleway Audit Trail events and authentication events.
